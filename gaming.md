@@ -10,7 +10,8 @@ categories:
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "home.md", title: "Home"}
   - {file: "about-general-knowledge.md", title: "About & General Knowledge"}
-  - {file: "jailbreak.md", title: "Jailbreak"}
+  - {file: "Jailbreak.md", title: "Jailbreak"}
+  - {file: "gaming.md", title: "Games, Updates & DLC"}
   - {file: "hacks-homebrew.md", title: "Hacks & Homebrew"}
 ---
 
