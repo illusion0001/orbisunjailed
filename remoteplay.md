@@ -31,11 +31,19 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  * Select register manually and enter the code.
  * Done.
 
-### Using chiaki (homebrew Remote Play client)
+### Using chiaki (homebrew Remote Play client - also on Mac/Linux and Android's PlayStore)
  * Download and extract following tool:
  * <a href="https://git.sr.ht/~thestr4ng3r/chiaki/refs"> Chiaki Remote Play </a>
  * Open chiaki and select the + icon.
- * For host 
+ * For host input your PS4's IP Address. To find out your PS4's IP Address navigate to Settings > Network > View Connection Status.
+ * Save and double click the new appear icon.
+ * Input your console firmware
+ * Input your PSN Account ID (for local accounts and if you used GoldHEN) you can input "fffffffffff=" (That's 11 f's and a = sign). For activated accounts you need the same ID in base 64 format, you can convert it
+ * <a href="https://base64.guru/converter/encode/hex"> HEX to Base64 online converter </a>
+ * After jailbreaking your PS4 using GoldHEN navigate to Settings > Remote Play Connection Settings > Enable Remote Play and Remote Play using PSVita/PSTV.
+ * Select Add Device and input the code in the PIN section of chiaki.
+ * Select Register.
+ * Done.
 
 
 ## PSVita-PS4 Remote Play
