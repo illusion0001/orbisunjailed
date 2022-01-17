@@ -20,8 +20,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 ### Using patched Remote Play client
  * Note that you will need a PSN account (can be a dummy one and never connected/linked to the PS4).
  * Download and extract the following tools:
-[Patch Remote Play Client - must be this version](/backupfiles/PS4 Remote Play 2.6.0.2270.zip)
-[Remote Play Patcher](/backupfiles/PS4.Remote.Play.Auto-Patcher.zip)
+ * [Patch Remote Play Client - must be this version](/backupfiles/PS4 Remote Play 2.6.0.2270.zip)
+ * [Remote Play Patcher](/backupfiles/PS4.Remote.Play.Auto-Patcher.zip)
 
  * Install the patched client. Note: in latest version of Win10 if you get Media Pack error navigate to Settings > Apps > Apps & features > Optional features and remove and install again Windows Media Player.
  * Open Remote Play Patcher and patch it. Note: Windows Defender might block the program. Disable it, file is trusted by PS4 Homebrew community.
@@ -30,6 +30,12 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  * Back to the PC, open Remote Play application, connect to PS4 and sign-in to your dummy PSN account.
  * Select register manually and enter the code.
  * Done.
+
+### Using chiaki (homebrew Remote Play client)
+ * Download and extract following tool:
+ * <a href="https://git.sr.ht/~thestr4ng3r/chiaki/refs"> Chiaki Remote Play </a>
+ * 
+
 
 ## PSVita-PS4 Remote Play
 
