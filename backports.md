@@ -26,8 +26,26 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ## Enough talk, let's start...
 
-Congrats, you&#39;re one of the lucky ones. To begin, you have 2 options to jailbreak:
+* Make sure you have your games and updates extracted, everything should be .pkg files.
+* Download and extract AutoBackPort Tool:
+[AutoBackPortv1.11](/backupfiles/AutoBackPort_1.11.rar)
 
-[1. Start fresh](fresh-start-jailbreak.md). This means deleting everything from your HDD and update/reset your PS4 to the factory settings.<strong> This is the recommended path because it ensures you will have no additional trouble (could happen).</strong>
+**For games without updates:
+ * Open AutoBackport, set Base Game as the game's .pkg file and set Destination folder to a output folder.
+ * Build backported pkg file for the base game. (The result will be a small sized pkg file acting as a fake update)
+ * Add the main game pkg and the fake update pkg to the root of a USB drive.
+ * Plug the drive to the PS4.
+ * Navigate to the PS4 > Settings > GoldHEN > Package Installer and install main game pkg first then the fake update pkg.
+ * Done.
 
-[2. Jailbreak without resetting](no-reset-jailbreak.md). For those who really want to.<strong>Not recommended!</strong>
+**For games with updates:
+ * Open AutoBackport, set Base Game as the game's .pkg file, set Update PKG to the .pkg file and set Destination folder to a output folder.
+ * Add the main game pkg, update pkg and the fake update pkg to the root of a USB drive.
+ * Plug the drive to the PS4.
+ * Navigate to the PS4 > Settings > GoldHEN > Package Installer and install main game pkg first, update pkg second then fake update pkg.
+ * Done.
+
+
+## Troubleshooting
+
+ * I installed everything and I get error CE-40740-5. This could be a result of multiple things. Check your PC folder's permissions, available disk space & check and disable AntiVirus if it detected a false postivie. The tool is trusted and completely safe by the PS4 Homebrew community.
