@@ -17,12 +17,12 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ## Game Related Hacks & Tweaks
 
-[Backports](backports.md)
-[Remote Play](remoteplay.md)
-[Online Play](onlineplay.md)
-[Cheats](cheats.md)
-[FPS Patches & Mods](fps-patches-mods.md)
-[Fan Translations & Undubs](translations-undubs.md)
+* [Backports](backports.md)
+* [Remote Play](remoteplay.md)
+* [Online Play](onlineplay.md)
+* [Cheats](cheats.md)
+* [FPS Patches & Mods](fps-patches-mods.md)
+* [Fan Translations & Undubs](translations-undubs.md)
 
 ## Homebrew Apps
 
