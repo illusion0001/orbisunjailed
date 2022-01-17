@@ -48,7 +48,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ## PSVita-PS4 Remote Play
 
-
+ * PS Vita can connect to hacked PS4 without the need of any additional tweaks (can be regular and hacked Vita).
+ * Simply jailbreak your PS4 using GoldHEN.
+ * After jailbreaking your PS4 using GoldHEN navigate to Settings > Remote Play Connection Settings > Enable Remote Play and Remote Play using PSVita/PSTV.
+ * Select Add Device and input the code in Vita's native Remote Play app (comes with Vita). Do not wait for auto-pair, select skip and input the code.
+ * Done.
 
 **For games without updates:
  * Open AutoBackport, set Base Game as the game's .pkg file and set Destination folder to a output folder.
