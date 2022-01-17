@@ -16,7 +16,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 ---
 
 ## 1. Determining your firmware
-[here](backports.md)
+
 <ul>
 	<li>As stated before, jailbreaking can only be achieved on a firmware lower than latest.</li>
 	<li>To determine your firmware navigate on your PS4 to <strong>Settings > System > System Information</strong>.</li>
