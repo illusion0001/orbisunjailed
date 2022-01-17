@@ -39,7 +39,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  * Save and double click the new appear icon.
  * Input your console firmware
  * Input your PSN Account ID (for local accounts and if you used GoldHEN) you can input "fffffffffff=" (That's 11 f's and a = sign). For activated accounts you need the same ID in base 64 format, you can convert it
- * <a href="https://base64.guru/converter/encode/hex"> HEX to Base64 online converter </a>
+   * <a href="https://base64.guru/converter/encode/hex"> HEX to Base64 online converter </a>
  * After jailbreaking your PS4 using GoldHEN navigate to Settings > Remote Play Connection Settings > Enable Remote Play and Remote Play using PSVita/PSTV.
  * Select Add Device and input the code in the PIN section of chiaki.
  * Select Register.
