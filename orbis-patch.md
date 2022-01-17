@@ -31,6 +31,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
    * Your games will appear on the list, select them and install latest one in **green**.
    * Red patches cannot be applied since they require higher FW than exploited.
 
-## Troubleshooting
+## Note
 
- * I installed everything and I get error CE-40740-5. This could be a result of multiple things. Check your PC folder's permissions, available disk space & check and disable AntiVirus if it detected a false postivie. The tool is trusted and completely safe by the PS4 Homebrew community.
+ * PS4 Patch Installer can also be found to download via
+[Homebrew Store](hb-store.md)
