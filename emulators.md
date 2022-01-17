@@ -97,7 +97,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * For the majority of the systems, RetroArch is the recommended option.
 * Note that RetroArch has been unofficially ported, thus not all cores from PC version might be available.
 * Games can be loaded via a USB drive formatted as exFAT. The roms can be placed in a folder.
-* Retroarch and it's Core Installer can be downloaded and installed via the Homebrew Store.
+* Retroarch and it's Core Installer can be downloaded and installed via the 
+[Homebrew Store](hb-store.md)
 * Order of installation: Retroarch Core Installer > Ok to install every core and then RetroArch.
 * Done.
 
