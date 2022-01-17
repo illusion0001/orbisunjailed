@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 ### Using patched Remote Play client
  * Note that you will need a PSN account (can be a dummy one and never connected/linked to the PS4).
  * Download and extract the following tools:
-    * [Patch Remote Play Client -must be this version](/backupfiles/"PS4 Remote Play 2.6.0.2270.zip")
+    * [Patched Remote Play Client](/backupfiles/PS4 Remote Play 2.6.0.2270.zip)
     * [Remote Play Patcher](/backupfiles/PS4.Remote.Play.Auto-Patcher.zip)
 
  * Install the patched client. Note: in latest version of Win10 if you get Media Pack error navigate to Settings > Apps > Apps & features > Optional features and remove and install again Windows Media Player.
