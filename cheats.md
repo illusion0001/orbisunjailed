@@ -18,7 +18,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 ## What are cheats and what kind of cheats can I use?
 
 * Cheats are modifications to various elements of a game to unlock hidden items or advantages to the player with 0 grind.
-* There are a variety of cheats to various of games like Bloodbourne, Ace Combat 7, COD, etc that can unlock additional lifes, items, etc.
+* There are a variety of cheats to various games like Bloodbourne, Ace Combat 7, COD, etc that can unlock multiple life, items, etc.
 
 
 ## Online Cheats
