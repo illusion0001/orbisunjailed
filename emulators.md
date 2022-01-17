@@ -82,7 +82,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * Download and extract SATURN-FPKG:
    * [SATURN-FPKG_v1.1](/backupfiles/SATURN-FPKG_v1.1.7z)
 * Download your favourite Saturn rom. Make sure it is either in a .bin and .cue file format.
-* Launch SATURN-FPKG. In the Disc section select the or .bin file.
+* Launch SATURN-FPKG. In the Disc section select the .bin file.
 * Rename the tile if it hasn't updated to the game name. Add your own NP Title if it hasn't updated.
 * You can select a custom Icon & Background image to make it prettier on the homescreen and when you launch it.
    * Icon resolution must be 512x512
