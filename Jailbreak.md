@@ -33,6 +33,6 @@ Jailbreaking on the PS4 will never happen on the latest firmware! A quick reason
 Congrats, you&#39;re one of the lucky ones. To begin, you have 2 options to jailbreak:
 
 <ol>
-	<li>[a relative link](fresh-start-jailbreak.md)<strong>Start fresh</strong></a>. This means deleting everything from your HDD and update/reset your PS4 to the factory settings.<strong> This is the recommended path because it ensures you will have no additional trouble (could happen).</strong></li>
-	<li>[a relative link](no-reset-jailbreak.md)><strong>Jailbreak without resetting</strong></a>. For those who really want to.<strong>Not recommended!</strong></li>
+	<li><strong>[Start fresh](fresh-start-jailbreak.md)</strong></a>. This means deleting everything from your HDD and update/reset your PS4 to the factory settings.<strong> This is the recommended path because it ensures you will have no additional trouble (could happen).</strong></li>
+	<li><strong>[Jailbreak without resetting](no-reset-jailbreak.md)</strong></a>. For those who really want to.<strong>Not recommended!</strong></li>
 </ol>
