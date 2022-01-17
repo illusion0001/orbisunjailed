@@ -19,9 +19,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
  * **This will NOT use a PSN account.**
  * Online play on a jailbroken PS4 works by using custom dedicated servers that **DO NOT** in any shape or form interfere with anything PSN related.
- * **What this means is that you can only play with other jailbroken PS4. If you have a friend with a normal PS4 they cannot play with you either.**
+ * **What this means is that you can only play with other PS4's that use the same method. If you have a friend with a normal PS4 (PSN Servers) they cannot play with you.**
  * Not all games are supported and do not expect same userbase as a regular PS4. Here is a list of supported games (more games will come sometime in the future):
-<a href="https://www.teamxlink.co.uk/wiki/Supported_Games#Sony_Playstation_4"> PS4 FW Game List </a>
+<a href="https://www.teamxlink.co.uk/wiki/Supported_Games#Sony_Playstation_4"> Supported Game List for PS4 </a>
 
 ## Enough talk, let's start...
 
