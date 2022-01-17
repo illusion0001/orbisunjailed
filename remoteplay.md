@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 ### Using patched Remote Play client
  * Note that you will need a PSN account (can be a dummy one and never connected/linked to the PS4).
  * Download and extract the following tools:
-    * [Patch Remote Play Client - must be this version](/backupfiles/PS4 Remote Play 2.6.0.2270.zip)
+    * [Patch Remote Play Client -must be this version](/backupfiles/"PS4 Remote Play 2.6.0.2270.zip")
     * [Remote Play Patcher](/backupfiles/PS4.Remote.Play.Auto-Patcher.zip)
 
  * Install the patched client. Note: in latest version of Win10 if you get Media Pack error navigate to Settings > Apps > Apps & features > Optional features and remove and install again Windows Media Player.
@@ -33,7 +33,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ### Using chiaki (homebrew Remote Play client - also on Mac/Linux and Android's PlayStore)
  * Download and extract following tool:
- * <a href="https://git.sr.ht/~thestr4ng3r/chiaki/refs"> Chiaki Remote Play </a>
+   * <a href="https://git.sr.ht/~thestr4ng3r/chiaki/refs"> Chiaki Remote Play </a>
  * Open chiaki and select the + icon.
  * For host input your PS4's IP Address. To find out your PS4's IP Address navigate to Settings > Network > View Connection Status.
  * Save and double click the new appear icon.
