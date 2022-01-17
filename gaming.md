@@ -1,5 +1,5 @@
 ---
-title: "Jailbreak"
+title: "Games, Updates & DLC"
 mathjax: true
 layout: post
 categories:
