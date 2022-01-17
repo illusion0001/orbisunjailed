@@ -29,10 +29,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * [Emulators](emulators.md)
 * [Homebrew Store](hb-store.md)
 * [ORBIS Retail Patches](orbis-patch.md)
-* [PS4Xplorer File Manager](ps4xplorer.md)
-* [Remote Package Installer](rpi.md)
-* [Internal Package Installer](ipi.md)
-* [Payload Sender](payload-sender.md)
+* [Other useful homebrew](other-hb.md)
 
 ## UI Tweaks & Hacks
 
