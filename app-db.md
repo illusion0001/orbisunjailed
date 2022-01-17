@@ -23,8 +23,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 ## Enough talk, let's start...
 
 * Download and install:
-<a href="https://sqlitebrowser.org/dl/"> SQLite Browser </a>
-<a href="https://filezilla-project.org/download.php?type=client"> FileZilla FTP </a>
+       * <a href="https://sqlitebrowser.org/dl/"> SQLite Browser </a>
+       * <a href="https://filezilla-project.org/download.php?type=client"> FileZilla FTP </a>
  * Jailbreak using GoldHEN.
  * Navigate to Settings > GoldHEN > Enable FTP. Take note of the IP Address.
  * Open FileZilla and input PS4's IP Address on host and 2121 on port.
