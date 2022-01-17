@@ -26,7 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  * **This does not mean tweaks for online multiplayer games, rather online method of achieving these cheats.**
  * Jailbreak your PS4 using GoldHEN.
  * For the game you want cheats take note of the game version. You can see the version by hitting Options button from the controller, then selecting Information.
- * Launch the game. After it completely loads, hit the PS button on your controller and **KEEP IT RUNNING/DO NOT CLOSE APPLICATION** 
+ * Launch the game. After it completely loads, hit the PS button on your controller to go the homescreen and **KEEP IT RUNNING/DO NOT CLOSE APPLICATION** 
  * Open Internet Browser, then navigate to the following website (on your PS4): http://ps4trainer.com/Trainer/
  * Select Trainer if it doesn't already load the trainer portion of the site.
  * Input your PS4's IP Address. To find out your PS4’s IP Address navigate to Settings > Network > View Connection Status.
@@ -38,9 +38,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ## Offline Cheats
 
- * **You will need internet connection the first time, then the website will load without one**Jailbreak your PS4 using GoldHEN.
+ * **You will need internet connection the first time, then the website will load without one**
+ * Jailbreak your PS4 using GoldHEN.
  * For the game you want cheats take note of the game version. You can see the version by hitting Options button from the controller, then selecting Information.
- * Launch the game. After it completely loads, hit the PS button on your controller and **KEEP IT RUNNING/DO NOT CLOSE APPLICATION** 
+ * Launch the game. After it completely loads, hit the PS button on your controller to go to the homescreen and **KEEP IT RUNNING/DO NOT CLOSE APPLICATION** 
  * Open Internet Browser, then navigate to the following website (on your PS4): http://karo218.ir/PS4TRAINER/index.html
  * The site will begin to cache. Wait until it's completely done.
  * From now on you can disconnect the PS4 from internet. Close and reopen the internet browser.
