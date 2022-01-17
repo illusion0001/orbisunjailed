@@ -26,25 +26,25 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ## Homebrew Apps
 
-[Emulators](emulators.md)
-[Homebrew Store](hb-store.md)
-[ORBIS Retail Patches](orbis-patch.md)
-[PS4Xplorer File Manager](ps4xplorer.md)
-[Remote Package Installer](rpi.md)
-[Internal Package Installer](ipi.md)
-[Payload Sender](payload-sender.md)
+* [Emulators](emulators.md)
+* [Homebrew Store](hb-store.md)
+* [ORBIS Retail Patches](orbis-patch.md)
+* [PS4Xplorer File Manager](ps4xplorer.md)
+* [Remote Package Installer](rpi.md)
+* [Internal Package Installer](ipi.md)
+* [Payload Sender](payload-sender.md)
 
 ## UI Tweaks & Hacks
 
-[Permanent Retail Theme Unlocker](retail-theme-unlock.md)
-[Custom Dynamic & Static Themes](custom-theme.md)
-[app.db Tweaks / Remove Apps from Homescreen](app-db.md)
-[.rco Tweaks / UI & Sound Effects Tweaks](rcotweak.md)
+* [Permanent Retail Theme Unlocker](retail-theme-unlock.md)
+* [Custom Dynamic & Static Themes](custom-theme.md)
+* [app.db Tweaks / Remove Apps from Homescreen](app-db.md)
+* [.rco Tweaks / UI & Sound Effects Tweaks](rcotweak.md)
 
 ## Linux Installation
 
-[Linux Installation](linux-install.md)
-[Linux Additional Info](linux-more.md)
+* [Linux Installation](linux-install.md)
+* [Linux Additional Info](linux-more.md)
 
 ## Final notes
 
