@@ -41,7 +41,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 ## Linux Installation
 
 * [Linux Installation](linux-install.md)
-* [Linux Additional Info](linux-more.md)
+
 
 ## Final notes
 
