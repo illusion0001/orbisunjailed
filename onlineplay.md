@@ -40,10 +40,12 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
     * <a href="https://www.teamxlink.co.uk/ipcalculator/"> XLink Kai Network Calculator </a>
  * Select Playstation 4 and input the last 4 digits. Select Calculate IP Address.
  * Back to the PS4 navigate to Set Up Internet Connection > LAN Cable > Custom
-IP Address: Manual
-Input the IP Address, Subnet Mask, Default Router and Primary DNS from the Calculator
-MTU Settings: Automatic
-Proxy Server: Do Not Use
+<pre>
+<strong>IP Address: Manual</strong>
+<strong>Input the IP Address, Subnet Mask, Default Router and Primary DNS from the Calculator.</strong>
+<strong>MTU Settings: Automatic</strong>
+<strong>Proxy Server: Do Not Use</strong>
+</pre>
  * Done.
 
 
