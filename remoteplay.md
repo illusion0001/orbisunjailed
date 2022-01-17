@@ -54,22 +54,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  * Select Add Device and input the code in Vita's native Remote Play app (comes with Vita). Do not wait for auto-pair, select skip and input the code.
  * Done.
 
-**For games without updates:
- * Open AutoBackport, set Base Game as the game's .pkg file and set Destination folder to a output folder.
- * Build backported pkg file for the base game. (The result will be a small sized pkg file acting as a fake update)
- * Add the main game pkg and the fake update pkg to the root of a USB drive.
- * Plug the drive to the PS4.
- * Navigate to the PS4 > Settings > GoldHEN > Package Installer and install main game pkg first then the fake update pkg.
- * Done.
-
-**For games with updates:
- * Open AutoBackport, set Base Game as the game's .pkg file, set Update PKG to the .pkg file and set Destination folder to a output folder.
- * Add the main game pkg, update pkg and the fake update pkg to the root of a USB drive.
- * Plug the drive to the PS4.
- * Navigate to the PS4 > Settings > GoldHEN > Package Installer and install main game pkg first, update pkg second then fake update pkg.
- * Done.
-
-
 ## Troubleshooting
 
- * I installed everything and I get error CE-40740-5. This could be a result of multiple things. Check your PC folder's permissions, available disk space & check and disable AntiVirus if it detected a false postivie. The tool is trusted and completely safe by the PS4 Homebrew community.
+ * I get choppy audio when I'm using chiaki. Go in chiaki's folder > Audio and remove qtaudio_windows.dll if you're using Windows 10 or qtaudio_wasapi.dll if you're using Windows 7.
+ * I get low FPS and/or connection issues using chiaki. Unfortunately this might happen if your connection is not strong enough.
