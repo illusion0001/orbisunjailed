@@ -6,16 +6,16 @@ categories:
   - info
 ---
 
-#Why and what exactly is Orbis?
+## Why and what exactly is Orbis?
 
 Orbis is PS4's code name used internally by Sony when it was in development. Orbis is also the name of the native operating system of the PlayStation 4, a fork of FreeBSD version 9.0, released on January 12, 2012.
 
 
-#What does jailbreaking your PS4 mean?
+## What does jailbreaking your PS4 mean?
 
 Jailbreaking is, on a basic level, a term used when the console gets exploited to unlock various levels of the firmware that allows the access to many features previously accessible on a DevKit/TestKit (used by game developers and testers) to a consumer.
 
-#What can I do with a jailbroken PS4?
+## What can I do with a jailbroken PS4?
 
 After a successful jailbreak, you can unlock and try the following:
 
@@ -27,7 +27,7 @@ After a successful jailbreak, you can unlock and try the following:
 	<li>Access and install a fully featured OS like Linux to completely turn your PS4 into a PC.</li>
 </ul>
 
-#What can't I do with a jailbroken PS4?
+## What can't I do with a jailbroken PS4?
 
 While the advantages are plenty, you will lose some functionality such as:
 
