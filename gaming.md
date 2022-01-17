@@ -15,7 +15,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "hacks-homebrew.md", title: "Hacks & Homebrew"}
 ---
 
-#1. Games
+## 1. Games
 
 <ul>
 	<li><strong>No piracy links will be here!</strong></li>
