@@ -47,5 +47,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 <p><img alt="" src="https://gcdn.pbrd.co/images/9O68wknbdHM9.png?o=1" style="width: 698px; height: 393px;" /></p>
 
-PKG type: <strong>FAKE</strong> is a homebrew pkg not official that will not require license/disc. <strong>REAL/RETAIL</strong> is a direct pkg created and verified by Sony <strong>(these cannot be installed unless you have the disc or license).</strong>Fake and Retail cannot be combined.
+PKG type: <strong>FAKE</strong> is a homebrew pkg not official that will not require license/disc. <strong>REAL/RETAIL</strong> is a direct pkg created and verified by Sony <strong>(these cannot be played unless you have the disc or license).</strong>Fake and Retail cannot be combined.
 CONTENT ID: Note the CUSA number. This is your region and version of the game. If your updates/dlc and game content ID do not match, they will not install.
+
+
+
+Credit for images: Modded Warfare
