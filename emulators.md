@@ -19,8 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 * Emulators are applications that act/behave like a completely different system in order to play games released before / not natively made for PS4.
 * On the PS4, there are 2 types of emulators: native (either made by Sony or the company that made/owns the rights to the emulated console) and ports (fan-made emulators).
-* Natively the PS4 can emulate PS1, PS2, PSP (but the number of games that work are very low) & Sega Saturn.
-* Ports allows the PS4 to emulate MSDOS, NES, every GameBoy, MAME, Atari Lynx, Neo-Geo Pocket, SNES, VirtualBoy, WonderSwan, Nintendo 64, PS1, Sega Genesis/MegaDrive, Nintendo DS, FB Alpha Arcades, Capcom PS1,2 &3, MSX, NEC PC-FX, NEC PC Engine, Sega Saturn, Sega Dreamcast, old PC games, Atari 2600, Atari Jaguar, Vectrex, PSP, various ports, 3DO.
+* Natively the PS4 can emulate PS1, PS2, PSP (but the number of PSP games that work are very low) & Sega Saturn.
+* Ports allow the PS4 to emulate MSDOS, NES, every GameBoy, MAME, Atari Lynx, Neo-Geo Pocket, SNES, VirtualBoy, WonderSwan, Nintendo 64, PS1, Sega Genesis/MegaDrive, Nintendo DS, FB Alpha Arcades, Capcom PS1,2 &3, MSX, NEC PC-FX, NEC PC Engine, Sega Saturn, Sega Dreamcast, old PC games, Atari 2600, Atari Jaguar, Vectrex, PSP, various ports, 3DO.
 
 ## Enough talk, let's start...
 
