@@ -22,6 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  * Download and extract the following tools:
 [Patch Remote Play Client - must be this version](/backupfiles/PS4 Remote Play 2.6.0.2270.zip)
 [Remote Play Patcher](/backupfiles/PS4.Remote.Play.Auto-Patcher.zip)
+
  * Install the patched client. Note: in latest version of Win10 if you get Media Pack error navigate to Settings > Apps > Apps & features > Optional features and remove and install again Windows Media Player.
  * Open Remote Play Patcher and patch it. Note: Windows Defender might block the program. Disable it, file is trusted by PS4 Homebrew community.
  * After jailbreaking your PS4 using GoldHEN navigate to Settings > Remote Play Connection Settings > Enable Remote Play and Remote Play using PSVita/PSTV.
