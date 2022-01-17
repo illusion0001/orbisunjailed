@@ -34,5 +34,5 @@ Congrats, you&#39;re one of the lucky ones. To begin, you have 2 options to jail
 
 <ol>
 	<li><a href="fresh-start-jailbreak.md"><strong>Start fresh</strong></a>. This means deleting everything from your HDD and update/reset your PS4 to the factory settings.<strong> This is the recommended path because it ensures you will have no additional trouble (could happen).</strong></li>
-	<li><a href="https://florinsdistortedvision.github.io/orbisunjailed/no-reset-and-jailbreak.html"><strong>Jailbreak without resetting</strong></a>. For those who really want to.<strong>Not recommended!</strong></li>
+	<li><a href="no-reset-jailbreak.md"><strong>Jailbreak without resetting</strong></a>. For those who really want to.<strong>Not recommended!</strong></li>
 </ol>
