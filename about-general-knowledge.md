@@ -1,10 +1,9 @@
 ---
-title:"About & General Knowledge"
-mathja: true
+title: "About & General Knowledge"
+mathjax: true
 layout: post
 categories:
   - info
-
 ---
 
 #Why and what exactly is Orbis?
