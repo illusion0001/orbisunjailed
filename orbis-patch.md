@@ -20,7 +20,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * ORBIS Patches is an actively maintained archive of PlayStation 4 game updates. With over 40.000 patches in the database ORBIS Patches is the biggest patch database to date.
 * **ORBIS Patches will only work with retail pkg and NOT fake pkg. Basically disc only games.**
 * PS4 Patch Installer is a homebrew app based on ORBIS Patches that removes any PC work needed to search & copy the updates to the PS4.
-<a href="https://orbispatches.com/"> PS4 FW Game List </a>
 
 ## Enough talk, let's start...
 
