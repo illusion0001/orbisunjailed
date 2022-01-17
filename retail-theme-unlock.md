@@ -26,7 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * Download and extract :
    * <a href="https://github.com/Backporter/PS4-Retail-Theme-unlocker/releases/tag/1.1a"> PS4 Retail Theme Unlocker </a>
    * <a href="https://github.com/CyB1K/PS4-Fake-PKG-Tools-3.87/archive/refs/heads/main.zip"> PS4 FPKG Tools </a>
-* Put all of PS4 FPKG Tools contents in the PS4 Retail Them Unlocker's data folder.
+* Put all of PS4 FPKG Tools contents in the PS4 Retail Theme Unlocker's data folder.
 * Drag and drop your **retail** pkg theme to PS4-Retail-Theme-unlocker.exe.
 * It should now create a very small pkg file.
 * Put both of the files on a root of USB Drive.
