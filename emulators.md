@@ -33,7 +33,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * Download and extract PSX-FPKG:
    * [PSX-FPKG v.0.2](/backupfiles/PSX-FPKG_v02.7z)
 * Download your favourite PS1 rom. Make sure it is in a .bin and .cue file format.
-* Launch PS2-FPKG. In the Disc section select the .bin file.
+* Launch PSX-FPKG. In the Disc section select the .bin file.
 * Rename the tile if it hasn't updated to the game name. Add your own NP Title if it hasn't updated.
 * You can select a custom Icon & Background image to make it prettier on the homescreen and when you launch it.
    * Icon resolution must be 512x512
@@ -66,7 +66,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * Download and extract PSP HD GUI:
    * <a href="https://github.com/xXxTheDarkprogramerxXx/PS3Tools/releases/tag/PSPHD1.0.0.0"> PSP HD GUI V.1.0 </a>
 * Download your favourite PSP rom. Make sure it is either in a .ISO, .CSO or .PBP file format.
-* Launch PS2-FPKG. In the Disc section select the .ISO, .CSO or .PBP file.
+* Launch PSP HD GUI. In the Disc section select the .ISO, .CSO or .PBP file.
 * Rename the tile if it hasn't updated to the game name. Add your own NP Title if it hasn't updated.
 * You can select a custom Icon & Background image to make it prettier on the homescreen and when you launch it.
    * Icon resolution must be 512x512
@@ -82,7 +82,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * Download and extract SATURN-FPKG:
    * [SATURN-FPKG_v1.1](/backupfiles/SATURN-FPKG_v1.1.7z)
 * Download your favourite Saturn rom. Make sure it is either in a .bin and .cue file format.
-* Launch PS2-FPKG. In the Disc section select the or .bin file. Also select the other disc .ISO or .bin files in the appropriate section.
+* Launch SATURN-FPKG. In the Disc section select the or .bin file. Also select the other disc .ISO or .bin files in the appropriate section.
 * Rename the tile if it hasn't updated to the game name. Add your own NP Title if it hasn't updated.
 * You can select a custom Icon & Background image to make it prettier on the homescreen and when you launch it.
    * Icon resolution must be 512x512
