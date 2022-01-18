@@ -15,6 +15,15 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "hacks-homebrew.md", title: "Hacks & Homebrew"}
 ---
 
+## About gaming on a jailbroken PS4
+
+* What games can I play? You can find the majority of games released released during 2021 and before. If you want to know how many, *there are about 2856 games already available to play*.
+* What games can't I play? Mostly games that are online only or the majority of the game needs to be online-only such as Fornite, Apex Legends etc. Note that online play on a jailbroken PS4 is possibile but there are a few games compatibile. A guide can be found
+[here.](onlineplay.md)
+* How do games become available? The process is called dumping. This means, inserting a PS4 game disc and running a dumper payload to decrypt and put the whole game on external HDD. After the slow process is done, it is then transferred to the PC where a FAKE pkg is made, removing the need of the disc.
+* So to keep it short, most games playable come from disc media.
+
+
 ## 1. Games
 
 <ul>
@@ -47,8 +56,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 <p><img alt="" src="https://gcdn.pbrd.co/images/9O68wknbdHM9.png?o=1" style="width: 698px; height: 393px;" /></p>
 
-PKG type: <strong>FAKE</strong> is a homebrew pkg not official that will not require license/disc. <strong>REAL/RETAIL</strong> is a direct pkg created and verified by Sony <strong>(these cannot be played unless you have the disc or license).</strong>Fake and Retail cannot be combined.
-CONTENT ID: Note the CUSA number. This is your region and version of the game. If your updates/dlc and game content ID do not match, they will not install.
+
+ * PKG type: <strong>FAKE</strong> is a homebrew pkg not official that will not require license/disc. <strong>REAL/RETAIL</strong> is a direct pkg created and verified by Sony <strong>(these cannot be played unless you have the disc or license).
+ * **Fake and Retail cannot be combined.**
+ * A RETAIL pkg cannot be converted to FAKE. A FAKE pkg cannot be converted to RETAIL.
+ * CONTENT ID: Note the CUSA number. This is your region and version of the game. If your updates/dlc and game content ID do not match, they will not install.
 
 
 
