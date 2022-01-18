@@ -18,7 +18,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ## About gaming on a jailbroken PS4
 
-* What games can I play? You can find the majority of games released released during 2021 and before. If you want to know how many, *there are about 2856 games already available to play*.
+* What games can I play? You can find the majority of games released during 2021 and before. If you want to know how many, *there are about 2856 games already available to play*.
 * What games can't I play? The majority of games that are online only or games that require to be online in order to play such as Fornite, Apex Legends etc. Note that online play on a jailbroken PS4 is possible but there are a few games compatibile. A guide can be found
 [here.](onlineplay.md)
 * How do games become available? The process is called 
