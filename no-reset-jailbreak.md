@@ -35,6 +35,21 @@ To keep it short, different firmwares will need different exploits, thus can lea
  * 7.02 & 7.5x (7.50, 7.51 & 7.55) - update to 9.00
  * 9.00 - currently the latest exploitable firmware - Stay!
 
+## 2.1 Optional - update without erasing HDD
+
+ * Download 9.00 (or your desired) firmware file on your PC by visiting one of the sites **(do not get beta firmwares - get recovery/full firmwares - should be over 1GB file size depending on the version)**:
+    * <a href="https://darksoftware.xyz/PS4/FWlist"> DKS PS4 Firmwares </a> - Recommended because of the faster download speeds but requires creation of an account on the site.
+    * <a href="https://darthsternie.net/ps4-firmwares/"> Darthsternie's Firmwares </a> - No account required, but slower download speeds.
+ * Unpack your archive and rename the file to **PS4UPDATE.pup** (must be in all caps).
+ * Prepare a USB stick drive by formatting it to **FAT32** and creating a folder on the root of the drive named **PS4** and another folder inside PS4 named **UPDATE**. Copy PS4UPDATE.pup in the UPDATE folder.
+**Final structure should look like this: PS4 > UPDATE > PS4UPDATE.pup**
+ * **REMOVE ETHERNET CABLE AND DISABLE ANY CONNECTION TO INTERNET INCLUDING WI-FI**
+ * **If you received a update notification, MAKE SURE TO REMOVE THE PENDING UPDATE FILE**
+ * Plug in the USB drive to the PS4.
+ * Navigate to Settings > System Software Update. Check to see what version would it update to. **DO NOT CLICK NEXT IF THE FIRMWARE YOU WANT TO UPDATE TO IS NOT THE SAME**.
+ * Select Next, Accept the terms then Update.
+ * Your PS4 will begin to update, wait and have patience.
+
 ## 3. Jailbreaking your PS4
 
 <ul>
