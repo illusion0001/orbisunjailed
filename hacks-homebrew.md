@@ -22,6 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * [Online Play](onlineplay.md)
 * [Cheats](cheats.md)
 * [FPS Patches & Mods](fps-patches-mods.md)
+* [Game/app dumping](dumping.md)
 * [Fan Translations & Undubs](translations-undubs.md)
 
 ## Homebrew Apps
