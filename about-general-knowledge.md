@@ -50,8 +50,8 @@ While the advantages are plenty, you will lose some functionality such as:
 
   * Kernel panic = a forced reboot or shutdown caused by the unsuccessful attempt to jailbreak.
   * Webkit exploit = the first part of a full jailbreak, a vulnerability in PS4's Internet Browser (currently every single jailbreak uses this method).
-  * Kernel exploit = the second part of a full jailbreak, a vulnerability in PS4's kernel which is the essential center of the operating system (provides basical services for all other parts of the OS).
-  * GoldHEN = HEN is a abbreviation of Homebrew Enabler, that allows unlocking the ability to install and play packages (games or apps). GoldHEN is the definitive version of HEN which also adds more features (VR enabler, Remote Package Insalls, Rest Mode support, external HDD supoort, Debug Trophies, UART enabler and many <a href="https://github.com/GoldHEN/GoldHEN#features"> more </a>.
+  * Kernel exploit = the second part of a full jailbreak, a vulnerability in PS4's kernel which is the essential center of the operating system (provides basic services for all other parts of the OS).
+  * GoldHEN = HEN is a abbreviation of Homebrew Enabler, that allows unlocking the ability to install and play packages (games or apps). GoldHEN is the definitive version of HEN which also adds more features (VR enabler, Remote Package Insalls, Rest Mode support, external HDD supoort, Debug Trophies and many <a href="https://github.com/GoldHEN/GoldHEN#features"> more </a>.
   * Homebrew = the term in PS4's scene, is any piece of application, modification of system that hasn't been directly done by Sony (ex: PS4Xplorer is a fan made file manager in form of a application)
   * Package (pkg) = the main format PS4 recognizes to pack games, updates, DLC, themes and more (similar to a archive).
   * Payload (in a .bin or .js format) = a file that allows modifying and adding unsigned code to run on the PS4.
