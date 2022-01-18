@@ -45,7 +45,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
     * <a href="https://github.com/Crypt0s/FakeDns/archive/refs/heads/master.zip"> FakeDNS script </a>
  * Run XAMPP and open its control panel. Select Start so that Apache can turn green.
  * Open a cmd and run: ipconfig to find your IP Address (IPv4 Address). Take note of it.
- * Put fakedns.py to the golder C:/Python27/
+ * Put fakedns.py to the folder C:/Python27/
  * In the same folder create a .txt file and write:
    * A manuals.playstation.net IPADDRESS   - replace IPADDRESS with your IP Address you took note of.
  * Save the file and rename it to dns.conf. **Make sure its a .conf and NOT a .txt file**
