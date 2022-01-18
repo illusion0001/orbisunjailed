@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 * app.db is the file that holds a database of every single app / game installed on the PS4.
 * By editing the file, you can hide system apps that are just wasting space or are useless on a jailbroken PS4 such as News, PS Store, PLAYROOM, etc.
+* Note before trying that for *some* people, this can slow down their homescreen. As a result **make a backup of the file**.
 
 ## Enough talk, let's start...
 
