@@ -40,10 +40,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * [app.db Tweaks / Remove Apps from Homescreen](app-db.md)
 * [.rco Tweaks / UI & Sound Effects Tweaks](rcotweak.md)
 
-## Linux Installation
+## Linux & Other Useful Info
 
 * [Linux Installation](linux-install.md)
-
+* [Backup sflash & PS4's HDD](sflash-backup.md)
 
 ## Final notes
 
