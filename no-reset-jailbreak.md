@@ -55,6 +55,9 @@ MTU Settings: Automatic
 Proxy Server: Do Not Use</strong>
 </pre>
 
+ * **Note!: For some people, their Internet Provider will block DNS's, thus not allowing you to use the 2 DNS Addresses. If you are one of those people please use
+[ALTERNATIVE GUIDE](alternative-jailbreak.md)**
+
 <ul>
 	<li><strong>IF ON A FIRMWARE LOWER THAN 9.00 SKIP THIS</strong>. Download Rufus and exfathax.img on your PC. Plug a USB drive to your PC.</li>
 </ul>
