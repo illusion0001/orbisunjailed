@@ -35,7 +35,7 @@ To keep it short, different firmwares will need different exploits, thus can lea
  * 7.02 & 7.5x (7.50, 7.51 & 7.55) - update to 9.00
  * 9.00 - currently the latest exploitable firmware - Stay!
 
-## 3. Resetting and/or updating your PS4 &amp; Jailbreaking
+## 3. Jailbreaking your PS4
 
 <ul>
 	<li><strong>REMOVE ANY ETHERNET CABLE AND/OR SKIP WI-FI CONNECTION. Keep everything offline.</strong></li>
