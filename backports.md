@@ -24,6 +24,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * If you are on a lower firmware you will need a backport patch in order to launch a newer game. Here you can find out what game requries which firmware:
 <a href="https://oldnero.github.io/PS4-Games-List/"> PS4 FW Game List </a>
 
+* **NOTE!: There isn't a universal way to backport, some games might work with these methods, while some will not. In any case, there are backports available online by talented devs, so I would recommend you to search them online first (based on your game, version, and region), and only attempt these if you're bored or up for a challenge!**
+
 ## Enough talk, let's start...
 
 * Make sure you have your games and updates extracted, everything should be .pkg files.
