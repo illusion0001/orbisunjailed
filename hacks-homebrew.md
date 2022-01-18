@@ -30,6 +30,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * [Emulators](emulators.md)
 * [Homebrew Store](hb-store.md)
 * [ORBIS Retail Patches](orbis-patch.md)
+* [Payload Guest](payload-guest.md)
 * [Other useful homebrew](other-hb.md)
 
 ## UI Tweaks & Hacks
