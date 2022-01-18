@@ -52,7 +52,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
     * [downgrade_sfo.py script](/backupfiles/downgrade_sfo.py)
     * <a href="https://www.microsoft.com/en-us/p/python-39/9p7qfqmjrfp7?activetab=pivot:overviewtab"> Python </a>
     * <a href="https://github.com/CyB1K/PS4-Fake-PKG-Tools-3.87/archive/refs/heads/main.zip"> FPKG Tools </a>
-    * [unfself.exe](/backupfiles/unfself.rar)
+    * [unfself.exe](/backupfiles/unfself.zip)
     * <a href="https://mh-nexus.de/en/downloads.php?product=HxD20"> HxD Editor </a>
  * In FPKG Tools folder, open orbis-pub-chk.exe. Drag the game pkg to Image List
  * Select Extract files. Enter passcode as all 0's. If the passcode is not 0's, then you need a different pkg.
