@@ -43,7 +43,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 ## Linux & Other Useful Info
 
 * [Linux Installation](linux-install.md)
-* [Backup sflash & PS4's HDD](sflash-backup.md)
+* [Backup sflash and PS4's HDD](sflash-backup.md)
 
 ## Final notes
 
