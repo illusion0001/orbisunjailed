@@ -15,6 +15,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "hacks-homebrew.md", title: "Hacks & Homebrew"}
 ---
 
+
 ## About gaming on a jailbroken PS4
 
 * What games can I play? You can find the majority of games released released during 2021 and before. If you want to know how many, *there are about 2856 games already available to play*.
@@ -24,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * So to keep it short, most games playable come from disc media.
 
 
-## 1. Games
+## Games
 
 <ul>
 	<li><strong>No piracy links will be here!</strong></li>
@@ -41,7 +42,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 	<li>Navigate on your PS4 to Setttings > GoldHEN > Package Installer. Select the pkg and wait. Your game will now appear on the homescreen.</li>
 </ul>
 
-## 2. Updates & DLC
+## Updates & DLC
 
 <ul>
 	<li>Updates & DLC need to be linked to the same game version and region. If not, they will not install.</li>
@@ -58,7 +59,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 
  * PKG type: <strong>FAKE</strong> is a homebrew pkg not official that will not require license/disc. <strong>REAL/RETAIL</strong> is a direct pkg created and verified by Sony <strong>(these cannot be played unless you have the disc or license).
- * **Fake and Retail cannot be combined.**
+ * Fake and Retail cannot be combined.
  * A RETAIL pkg cannot be converted to FAKE. A FAKE pkg cannot be converted to RETAIL.
  * CONTENT ID: Note the CUSA number. This is your region and version of the game. If your updates/dlc and game content ID do not match, they will not install.
 
