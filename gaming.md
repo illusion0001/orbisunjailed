@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 ## About gaming on a jailbroken PS4
 
 * What games can I play? You can find the majority of games released released during 2021 and before. If you want to know how many, *there are about 2856 games already available to play*.
-* What games can't I play? Mostly games that are online only or the majority of the game needs to be online-only such as Fornite, Apex Legends etc. Note that online play on a jailbroken PS4 is possibile but there are a few games compatibile. A guide can be found
+* What games can't I play? The majority of games that are online only or games that require to be online in order to play such as Fornite, Apex Legends etc. Note that online play on a jailbroken PS4 is possibile but there are a few games compatibile. A guide can be found
 [here.](onlineplay.md)
 * How do games become available? The process is called dumping. This means, inserting a PS4 game disc and running a dumper payload to decrypt and put the whole game on external HDD. After the slow process is done, it is then transferred to the PC where a FAKE pkg is made, removing the need of the disc.
 * So to keep it short, most games playable come from disc media.
