@@ -19,6 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
  * **Note that installing Linux won't override Orbis OS (PS4's main OS) and can only be installed on a external drive!**
  * Installing Linux basically can unlock everything you can do on a normal PC such as desktop emulators, Linux and Steam games & much more.
+
+ * **NOTE!: There isn't a universal way to install Linux, and installing it is on a more technical side, thus this guide is only to be used as a reference. Linux is very troublesome on the PS4 and will varry heavily on what PS4 model, firmware, kernel, distro & many more. Do not attempt if you don't know what you should be doing.**
  
 ## Enough talk, let's start...
 
