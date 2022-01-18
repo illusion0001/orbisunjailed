@@ -45,3 +45,17 @@ While the advantages are plenty, you will lose some functionality such as:
 	<li>All PSN features such as messaging, online trophy syncing, various PS Plus features such as online save data upload and other features that are dependent on PSN such as Spotify.&nbsp;</li>
 	<li>Depending on the release date of the jailbreak, firmware and games, some newer games will not be available. As soon as new jailbreak will appear, those new games will also appear.</li>
 </ul>
+
+## Other useful terms to know
+
+  * Kernel panic = a forced reboot or shutdown caused by the unsuccessful attempt to jailbreak.
+  * Webkit exploit = the first part of a full jailbreak, a vulnerability in PS4's Internet Browser (currently every single jailbreak uses this method).
+  * Kernel exploit = the second part of a full jailbreak, a vulnerability in PS4's kernel which is the essential center of the operating system (provides basical services for all other parts of the OS).
+  * GoldHEN = HEN is a abbreviation of Homebrew Enabler, that allows unlocking the ability to install and play packages (games or apps). GoldHEN is the definitive version of HEN which also adds more features (VR enabler, Remote Package Insalls, Rest Mode support, external HDD supoort, Debug Trophies, UART enabler and many <a href="https://github.com/GoldHEN/GoldHEN#features"> more </a>.
+  * Homebrew = the term in PS4's scene, is any piece of application, modification of system that hasn't been directly done by Sony (ex: PS4Xplorer is a fan made file manager in form of a application)
+  * Package (pkg) = the main format PS4 recognizes to pack games, updates, DLC, themes and more (similar to a archive).
+  * Payload (in a .bin or .js format) = a file that allows modifying and adding unsigned code to run on the PS4.
+  * FTP Transfers = FTP stands for File Transfer Protocol, it is used to remotely send and receive files from and to the PS4 to a PC without the need of USB drives.
+  * CFW = Custom FirmWare, a full fan-made firmware, designed for various jailbroken uses. **Note!: PS4 does not have any CFW**.
+  * FAKE Packages (fake pkg or FPKG) = Homebrew packages that have not been created or verified by Sony. They are different from retail because they do not need a license or disc to be inserted, but requires the PS4 to jailbroken before attempting to launch them. While the name contains *fake*, they are not malicious, rather a term used to differentiate them from retail packages.
+  * RETAIL Packages (retail pkg) = Packages created and verified by Sony that usually come directly from PS Store. These packages cannot be launched if the user does not have a license for the content they wish to launch. Themes however are the only retail packages that can be unlocked.
