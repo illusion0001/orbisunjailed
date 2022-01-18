@@ -54,4 +54,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   * After it has been completed a "Done" should appear at the bottom. Select Save GP4 and save it on the root of the USB drive.
   * Repeat the process if you have -patch folder and other.
   * Open orbis-pub-gen.exe.
-  * I
+  * Select CUSAxxx-app.gp4 made and select Build. Set the output folder and select Build again.
+  * Do the same thing for the CUSAxxx-patch.gp4.
+  * Done.
+  * Install the pkg on your PS4 via Settings > GoldHEN > Package Installer.
