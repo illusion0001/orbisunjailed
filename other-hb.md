@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
     * PS4Xplorer - file manager + FTP client
     * Remote Package Installer - pkg receiver that turns your PC into your personal PSN Store server.
     * Internal Package Installer - a install app that will allow the removal of USB drives, allowing you to install pkg from the same HDD.
-    * Payload Guest - a app that loads payloads without the need of a internet browser host (**does need jailbreak to be already loaded via GoldHEN**).
+    * [Payload Guest](payload-guest.md) - a app that loads payloads without the need of a internet browser host (**does need jailbreak to be already loaded via GoldHEN**).
     * Apollo Save Tool - automatic save-mounting, offline account activation & more.
     * [RetroArch](emulators.md) - a multi-emulator frontend that allows running a variety of systems on PS4.
     * PS4Player - a simple MP4 player with .srt subtitle support.
