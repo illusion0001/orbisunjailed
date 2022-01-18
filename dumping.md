@@ -48,7 +48,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
  * Insert the HDD back to a PC. You should have a few folders, the dumper.cfg and a .complete file. You can remove the .complete file.
  * Download and extract"
-    * <a href="https://github.com/CyB1K/PS4-Fake-PKG-Tools-3.87/archive/refs/heads/main.zip" FAKE PKG Tools </a>
+     * <a href="https://github.com/CyB1K/PS4-Fake-PKG-Tools-3.87/archive/refs/heads/main.zip"> FAKE PKG Tools </a>
   * Open GP4 Generator. In CUSAxxxx Dir put the directory of the -app folder on your external HDD. Ex: E:/CUSA43953-app
   * Select Generate GP4. Wait and have patience.
   * After it has been completed a "Done" should appear at the bottom. Select Save GP4 and save it on the root of the USB drive.
