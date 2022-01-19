@@ -33,6 +33,7 @@ To keep it short, different firmwares will need different exploits, thus can lea
  * 6.72 - either stay on it or update to 9.00 (note that you will need to backport most of your new games in order to play them - a guide can be found
 [here](backports.md)
  * 7.02 & 7.5x (7.50, 7.51 & 7.55) - update to 9.00
+ * 8.0x & 8.50 - update to 9.00
  * 9.00 - currently the latest exploitable firmware - Stay!
 
 ## 3. Resetting and/or updating your PS4 &amp; Jailbreaking
