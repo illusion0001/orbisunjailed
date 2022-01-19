@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  * Remote Package Installer can be downloaded and installed via [Homebrew Store](hb-store.md).
  * After installing, open it and **keep it open, do not minimize it or go to your homescreen**. The app will just show the splash screen.
  * Download and install/unpack:
-   * [PS4 PKG Sender](/backupfiles/Ps4_Pkg_Sender_V1.07.zip).
+   * [PS4 PKG Sender](/backupfiles/Ps4_Pkg_Sender_V1.07.zip)
    * <a href="https://www.microsoft.com/en-nz/download/details.aspx?id=48130"> .NET Framework 4.6 </a>
    * <a href="https://nodejs.org/en/"> Node.js </a>
  * After installing everything, open cmd and paste the following command: **npm install http-server -g**
