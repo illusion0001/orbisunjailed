@@ -31,6 +31,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * [Homebrew Store](hb-store.md)
 * [ORBIS Retail Patches](orbis-patch.md)
 * [Payload Guest](payload-guest.md)
+* [Remote Package Installer](remote-package-installer.md)
 * [Other useful homebrew](other-hb.md)
 
 ## UI Tweaks & Hacks
