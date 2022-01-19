@@ -52,9 +52,43 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   * Open GP4 Generator. In CUSAxxxx Dir put the directory of the -app folder on your external HDD. Ex: E:/CUSA43953-app
   * Select Generate GP4. Wait and have patience.
   * After it has been completed a "Done" should appear at the bottom. Select Save GP4 and save it on the root of the USB drive.
+
+#### Fixing NP Errors
+  * NP errors are usually realted to encrypted trophies. A quick summary, is when you don't try to fix them, when you make the fpkg and try to launch them a error will immediately appear with a random NP-xxxx code.
+  * **Not all games will need this fix, but most game updates/patches will, so it's better to keep it save and see if you need this patch or not.**
+  * Download and install:
+     * <a href="https://mh-nexus.de/en/downloads.php?product=HxD20"> HxD Editor </a>
+     * <a href="https://filezilla-project.org/download.php?type=client"> FileZilla FTP </a>
+  * Open HxD and open **trophy00.trp** from your **extracted game's folder > sce_sys > trophy** AND from the **extracted patch folder > sce_sys > trophy.**
+     * In the decoded text section, if you can cleary read the contents (ex: TROPHYCONF.ESM, TROP.ESM, etc), then you have a unencrypted file. In this case, you don't have to do anything.
+     * In the decoded text section, if you see gibberish or scrambled text (ex: d%ns8c), then you have a encrypted file. In this case, you need to apply the fix.
+  * To fix this issue you need to FTP to your PS4. Navigate on your PS4 to Settings > GoldHEN > Enable FTP Server. Take note of your PS4's IP Address from the incoming notification.
+  * In FileZilla's **Host** section input your PS4's IP Address, in **Port** section input 2121.
+  * Navigate to **/user/trophy/conf**. 
+  * Depending on your number of installed games, you should see a bunch of folders with their own unique ID. 
+  * To find out your game's ID, in your extracted game's folder (or patch if it's the one with the unencrypted file), navigate to **extracted folder > sce_sys** and open npbind.dat using HxD. In the decoded text section, your game's ID will show.
+  * Back on FileZilla, open your game's ID folder and copy TROPHY.TRP file to sce_sys > trophy folder. 
+  * Simply delete the encrypted one and rename the file we just copied to trophy00.trp.
+  * Done.
+
+#### Continuing on building fake pkg
+
   * Repeat the process if you have -patch folder and other.
   * Open orbis-pub-gen.exe.
   * Select CUSAxxx-app.gp4 made and select Build. Set the output folder and select Build again.
   * Do the same thing for the CUSAxxx-patch.gp4.
   * Done.
   * Install the pkg on your PS4 via Settings > GoldHEN > Package Installer.
+
+### Dumping Remastered Packages
+
+  * **Remastered packages are not refering to remastered games.**
+  * Remastered packages are the type of packages that combine the main game and updates into one. This is different from usual cases where you would find one package for the main game and another for the updates.
+  * The dumping process is the same as before.
+  * The difference would be after inserting the HDD back to the PC, the patch folder would be empty.
+  * If you try to build the fpkg, orbis-pub-gen would give a error saying that remastered packages are not supported.
+  * To fix that, in the FPKG Tools folder, open orbis-pub-sfo.exe then hit File > Open.
+  * Open in the extracted game's folder > sce_sys > param.sfo.
+  * Once opened, simply uncheck **For the Remaster Package**. Then hit File > Save.
+  * A erorr will appear, but don't worry, the changes will be still applied.
+  * Done. You can continue building the fpkg using orbis-pub-gen.exe as above.
