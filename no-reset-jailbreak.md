@@ -27,11 +27,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 To keep it short, different firmwares will need different exploits, thus can lead to various levels of stability and success rates. Please do keep in mind that they can be updated in the future. If you are on:
 
- * <5.05 - either keep it for archiving purposes or update to 5.05 or greater.
- *  5.05 - it's considered the gold firmware because of its stability and success rate. Either stay on it or update to 9.00 (note that you will need to backport most of your new games in order to play them - a guide can be found 
-[here](backports.md)
- * 6.72 - either stay on it or update to 9.00 (note that you will need to backport most of your new games in order to play them - a guide can be found
-[here](backports.md)
+ * <5.05 - either keep it for archiving purposes or update to 5.05 or 9.00.
+ *  5.05 - it's considered the gold firmware because of its stability and success rate. Either stay on it or update to 9.00 (note that you will need to backport most of your new games in order to play them - a guide can be found [here](backports.md)
+ * 6.72 - update to 9.00
  * 7.02 & 7.5x (7.50, 7.51 & 7.55) - update to 9.00
  * 8.0x & 8.50 - update to 9.00
  * 9.00 - currently the latest exploitable firmware - Stay!
