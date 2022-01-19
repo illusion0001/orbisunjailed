@@ -27,7 +27,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * Unfortunately, this part of PS4 scene seems to be super small/underrated. As soon as more translations are released I'll update this list.
 * Fan-translated games:
    * <a href="https://gbatemp.net/threads/release-omega-labyrinth-z-jp-english-full-fan-translation-patcher-ps4.585138/"> Omega Labyrinth Z </a>
-  
+* While PS4's own native fan translated games collection is very small, do not forget a jailbroken PS4 can run various [systems](emulators.md) which do have plenty of fan translated projects. Why not try some of those awesome games? :
+   * <a href="http://www.romhacking.net/translations/"> RomHacking Translation Collection </a>
+   * <a href="https://cdromance.com/translations/"> CDRomance Translated Games </a>
   
 ## Undubs
 
@@ -37,3 +39,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
      * Kingdom Hearts HD2.8
      * Persona 4: Dancing All Night
      * Star Ocean: 'Till The End of Time
+ * While PS4's own native undub collection is very small, do not forget a jailbroken PS4 can run various [systems](emulators.md) which do have plenty of undub projects. Why not try some of those awesome games? :
+   * <a href="https://old.reddit.com/r/UNDUB/"> /r/UNDUB Collection </a>
+   * <a href="https://cdromance.com/?language=undub"> CDRomance Undub Games </a>
