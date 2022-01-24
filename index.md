@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Home"
+<link rel="shortcut icon" type="image/x-icon" href="favicon.png">
 
 # Menu
 
