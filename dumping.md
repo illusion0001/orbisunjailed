@@ -124,7 +124,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   
   * Download and extract:
      * <a href="https://github.com/codemasterv/psDLC-2.1-stooged-Mogi-PPSA-gui"> psDLC </a>
-  * Search your game's DLC on the PS Store on a web browser, <a href="https://store.playstation.com/en-us/product/UP0001-PPSA01491_00-DLCEXPANSION0001"> as a example </a?.
+  * Search your game's DLC on the PS Store on a web browser, <a href="https://store.playstation.com/en-us/product/UP0001-PPSA01491_00-DLCEXPANSION0001"> as a example </a>.
   * Take note of the address, for the example UP0001-PPSA01491_00-DLCEXPANSION0001 is the DLC name. UP = US version, EU = Europe version, JP = Japan version.
   * Launch psDLC.exe. In Manual Input tab, paste the DLC name. Select Create fpkg.
   * In the fake_dlc_pkg folder, you will see the unlocker.
