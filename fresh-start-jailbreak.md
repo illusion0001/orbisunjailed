@@ -55,7 +55,7 @@ To keep it short, different firmwares will need different exploits, thus can lea
 	<li>Boot into PS4's recovery settings by turning off the PS4 and holding the PS4 button until it beeps 2 times. Recovery mode should look like this:</li>
 </ul>
 
-<p><img alt="Recovery mode" src="https://i0.wp.com/www.alphr.com/wp-content/uploads/2016/04/how_to_boot_ps4_safe_mode_4.jpg?w=690&amp;ssl=1" style="width: 690px; height: 388px;" /></p>
+![Recovery mode](/images/safemode.jpg)
 
 <ul>
 	<li>Plug the USB stick into an empty slot on your PS4.</li>
@@ -94,7 +94,7 @@ Proxy Server: Do Not Use</strong>
 	<li>Back on the PS4, navigate to Settings > User's Guide/Helpful Info > User Guide. The website should now look like this:</li>
 </ul>
 
-<p><img alt="" src="https://gcdn.pbrd.co/images/7wX8rDhdqbdq.png?o=1" style="width: 690px; height: 388px;" /></p>
+![Host](/images/host.jpg)
 
 <ul>
 	<li>Wait to cache the theme. Select your PS4 version. Select GoldHEN. Do not move your mouse cursor and have patience. If you see not enough memory errors, select OK and continue until you see this screen:</li>
@@ -102,11 +102,11 @@ Proxy Server: Do Not Use</strong>
 
 <p><strong>FOR 9.00 ONLY:</strong></p>
 
-<p><img alt="" src="https://gcdn.pbrd.co/images/IP6tzCrtH4M3.png?o=1" style="width: 698px; height: 393px;" /></p>
+![Insert screen](/images/insert.jpg)
 
 <p>If you see this plug your USB drive we did with Rufus, wait until the notification pops and disappears, then press OK. If you see this screen, it means you now jailbroken the PS4 (also on FW lower than 9.00 this should appear without a USB drive):</p>
 
-<p><img alt="" src="https://gcdn.pbrd.co/images/akm7y6qEsy66.png?o=1" style="width: 698px; height: 393px;" /></p>
+![Success screen](/images/allset.jpg)
 
 <ul>
 	<li>Congratulations, you now have jailbroken your PS4! Enjoy! <strong>(9.00 users, you need to remove the USB after you see the &quot;You&#39;re all set!&quot; screen).</strong></li>
