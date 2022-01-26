@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ## Enough talk, let's start...
 
-### Dumping from a PS4 to a external HDD
+### Dumping games and updates from a PS4 to a external HDD
 
  * **In order to dump, you must have a original PS4 game disc.**
  * Jailbreak your PS4 using GoldHEN.
@@ -44,7 +44,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   * Once it has loaded, the dumping process has started. **Wait and have patience. Games on PS4 are huge, so it will take a long time.**
   * Once it's completed, a pop-up saying "You're all set!" should appear.
 
-### Building the dumped game into a FAKE pkg
+### Building the dumped contents into a FAKE pkg
 
  * Insert the HDD back to a PC. You should have a few folders, the dumper.cfg and a .complete file. You can remove the .complete file.
  * Download and extract"
@@ -92,3 +92,40 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   * Once opened, simply uncheck **For the Remaster Package**. Then hit File > Save.
   * A erorr will appear, but don't worry, the changes will be still applied.
   * Done. You can continue building the fpkg using orbis-pub-gen.exe as above.
+ 
+### Dumping DLC
+
+  * DLC on the PS4 comes in 2 categories: **on-disc DLC** and **extra content DLC.**
+  * Extra content DLC usually come in form of map packs, extra campaign or any additional content that is **not present in the main game files**.
+  * On-Disc DLC, as the name implies, already **are on the disc/main game files**.
+
+#### Dumping Extra Content DLC
+
+  * This type of DLC comes from PS Store. In order to dump it, you have to have the DLC installed and ready to start on your PS4.
+  * Jailbreak your PS4 using GoldHEN. Navigate to Settings > GoldHEN >  Enable FTP server. Take note of your PS4's IP Address.
+  * Load the game and keep it on the main menu.
+  * On your PS4, open FileZilla. Input the PS4's IP Address on host name and 2121 on port.
+  * Navigate to **/MNT/SANDBOX/PFSMNT/** and locate the **-ac** folder associated with your game's CUSA ID.
+  * Copy all the files to your PC.
+  * Open orbis-pub-sfo and create a new SFO following:
+     * Core Settings > Category: PS4 Additional Content
+     * Core Settings > Content ID: your games id (format: EP0123-CUSAXXXXX_YY-ZZZZZZZZZZZZZZZZ-ac)
+     * Title Text > AC Title: the game's name
+     * File > Save (Save to EP0123-CUSAXXXXX_YY-ZZZZZZZZZZZZZZZZ-ac/sce_sys/param.sfo)
+  * Open orbis-pub-gen and create a new pkg following:
+     * File > New Project > Additional Content Package With Extra Data 
+     * Double click Image0 > drag and drop your DLC directory into this. Close window
+     * Click Command > Project Settings > go to Package tab > set Content ID (same as: EP0123-CUSAXXXXX_YY-ZZZZZZZZZZZZZZZZ) > set Passcode and Entitlement Key to "00000000000000000000000000000000" (32 x 0's)
+     * Click Command > Build Image > specify output path > click Build.
+  * Install the pkg via Package Installer.
+  * Done.
+  
+#### Dumping On-Disc DLC
+  
+  * Download and extract:
+     * <a href="https://github.com/codemasterv/psDLC-2.1-stooged-Mogi-PPSA-gui"> psDLC </a>
+  * Search your game's DLC on the PS Store on a web browser, <a href="https://store.playstation.com/en-us/product/UP0001-PPSA01491_00-DLCEXPANSION0001"> as a example </a?.
+  * Take note of the address, for the example UP0001-PPSA01491_00-DLCEXPANSION0001 is the DLC name. UP = US version, EU = Europe version, JP = Japan version.
+  * Launch psDLC.exe. In Manual Input tab, paste the DLC name. Select Create fpkg.
+  * In the fake_dlc_pkg folder, you will see the unlocker.
+  * Install the pkg via Package Installer.
