@@ -1,5 +1,6 @@
 ---
 title: "About & General Knowledge"
+site_favicon: "favicon.png"
 mathjax: true
 layout: post
 categories:
