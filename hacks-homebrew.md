@@ -17,34 +17,34 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ## Game Related Hacks & Tweaks
 
-* [Backports](backports.md)
-* [Remote Play](remoteplay.md)
-* [Online Play](onlineplay.md)
-* [Cheats](cheats.md)
-* [FPS Patches & Mods](fps-patches-mods.md)
-* [Game/app dumping](dumping.md)
-* [Fan Translations & Undubs](translations-undubs.md)
+* [★ Backports](backports.md)
+* [★ Remote Play](remoteplay.md)
+* [★ Online Play](onlineplay.md)
+* [★ Cheats](cheats.md)
+* [★ FPS Patches & Mods](fps-patches-mods.md)
+* [★ Game/app dumping](dumping.md)
+* [★ Fan Translations & Undubs](translations-undubs.md)
 
 ## Homebrew Apps
 
-* [Emulators](emulators.md)
-* [Homebrew Store](hb-store.md)
-* [ORBIS Retail Patches](orbis-patch.md)
-* [Payload Guest](payload-guest.md)
-* [Remote Package Installer](remote-package-installer.md)
-* [Other useful homebrew](other-hb.md)
+* [★ Emulators](emulators.md)
+* [★ Homebrew Store](hb-store.md)
+* [★ ORBIS Retail Patches](orbis-patch.md)
+* [★ Payload Guest](payload-guest.md)
+* [★ Remote Package Installer](remote-package-installer.md)
+* [★ Other useful homebrew](other-hb.md)
 
 ## UI Tweaks & Hacks
 
-* [Permanent Retail Theme Unlocker](retail-theme-unlock.md)
-* [Custom Dynamic & Static Themes](custom-theme.md)
-* [app.db Tweaks / Remove Apps from Homescreen](app-db.md)
-* [.rco Tweaks / UI & Sound Effects Tweaks](rcotweak.md)
+* [★ Permanent Retail Theme Unlocker](retail-theme-unlock.md)
+* [★ Custom Dynamic & Static Themes](custom-theme.md)
+* [★ app.db Tweaks / Remove Apps from Homescreen](app-db.md)
+* [★ .rco Tweaks / UI & Sound Effects Tweaks](rcotweak.md)
 
 ## Linux & Other Useful Info
 
-* [Linux Installation](linux-install.md)
-* [Backup sflash and PS4's HDD](sflash-backup.md)
+* [★ Linux Installation](linux-install.md)
+* [★ Backup sflash and PS4's HDD](sflash-backup.md)
 
 ## Final notes
 
