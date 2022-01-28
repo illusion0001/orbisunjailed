@@ -15,7 +15,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "hacks-homebrew.md", title: "Hacks & Homebrew"}
 ---
 
-## Game Related Hacks & Tweaks
+## ✪ Game Related Hacks & Tweaks
 
 * [★ Backports](backports.md)
 * [★ Remote Play](remoteplay.md)
@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * [★ Game/app dumping](dumping.md)
 * [★ Fan Translations & Undubs](translations-undubs.md)
 
-## Homebrew Apps
+## ✪ Homebrew Apps
 
 * [★ Emulators](emulators.md)
 * [★ Homebrew Store](hb-store.md)
@@ -34,18 +34,18 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * [★ Remote Package Installer](remote-package-installer.md)
 * [★ Other useful homebrew](other-hb.md)
 
-## UI Tweaks & Hacks
+## ✪ UI Tweaks & Hacks
 
 * [★ Permanent Retail Theme Unlocker](retail-theme-unlock.md)
 * [★ Custom Dynamic & Static Themes](custom-theme.md)
 * [★ app.db Tweaks / Remove Apps from Homescreen](app-db.md)
 * [★ .rco Tweaks / UI & Sound Effects Tweaks](rcotweak.md)
 
-## Linux & Other Useful Info
+## ✪ Linux & Other Useful Info
 
 * [★ Linux Installation](linux-install.md)
 * [★ Backup sflash and PS4's HDD](sflash-backup.md)
 
-## Final notes
+## ✪ Final notes
 
 Note that every single of these hacks require jailbreaking before any attempt.
