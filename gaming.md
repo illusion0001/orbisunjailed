@@ -42,7 +42,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * To check a game region and version download:
 <p><a href="https://sites.google.com/site/theleecherman/ps4pkgviewer">PS4PKGViewer - leecherman (google.com)</a>&nbsp;- PS4PKGViewer</p>
 * Take your game .pkg and open it via PS4PKGViewer. Take note of:
-<p><img alt="" src="https://gcdn.pbrd.co/images/9O68wknbdHM9.png?o=1" style="width: 698px; height: 393px;" /></p>
+![PKGVIEWER](/images/update.png)
 * PKG type: **FAKE** is a homebrew pkg not official that will not require license/disc. **REAL/RETAIL** is a direct pkg created and verified by Sony **(these cannot be played unless you have the disc or license)**.
 * **Fake and Retail cannot be combined.**
 * **A RETAIL pkg cannot be converted to FAKE. A FAKE pkg cannot be converted to RETAIL.**
