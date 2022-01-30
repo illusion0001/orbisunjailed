@@ -1,10 +1,12 @@
 ---
 title: "Jailbreak"
 mathjax: true
-layout: default
+layout: post
 categories:
   - info
-
+  
+<link rel="shortcut icon" type="image/png" 
+      href="{{ "/images/favicon.png"  | absolute_url }}">
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
