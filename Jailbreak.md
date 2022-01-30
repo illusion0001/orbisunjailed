@@ -1,7 +1,7 @@
 ---
 title: "Jailbreak"
 mathjax: true
-layout: post
+layout: default
 categories:
   - info
 
