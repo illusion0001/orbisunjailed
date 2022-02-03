@@ -29,6 +29,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 * [★ Emulators](emulators.md)
 * [★ Homebrew Store](hb-store.md)
+* [★ Apollo Save Tool](apollo-save-tool.md)
 * [★ ORBIS Retail Patches](orbis-patch.md)
 * [★ Payload Guest](payload-guest.md)
 * [★ Remote Package Installer](remote-package-installer.md)
