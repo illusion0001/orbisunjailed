@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * Clever hackers found a way to disable that check so that no matter what firmware version you have and how old it might be, the game/app could be launched. That kind of patch is called a backport patch.
 * Do I need a backport patch? Yes and no. It depends on your firmware. If you are on latest exploitable FW you don't need a backport until a jailbreak for a new firmware will be released (and you decide to stay on your current firmware).
 * If you are on a lower firmware you will need a backport patch in order to launch a newer game. Here you can find out what game requries which firmware:
-<a href="https://oldnero.github.io/PS4-Games-List/"> PS4 FW Game List </a>
+<a href="https://defaultdnb.github.io/"> PS4 FW Game List </a>
 
 * **NOTE!: There isn't a universal way to backport, some games might work with these methods, while some will not. In any case, there are backports available online by talented devs, so I would recommend you to search them online first (based on your game, version, and region), and only attempt these if you're bored or up for a challenge!**
 
