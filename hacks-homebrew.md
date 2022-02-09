@@ -33,7 +33,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * [★ ORBIS Retail Patches](orbis-patch.md)
 * [★ Payload Guest](payload-guest.md)
 * [★ Remote Package Installer](remote-package-installer.md)
-* [★ Other useful homebrew](other-hb.md)
+* [★ List of homebrew & NoPSN apps](other-hb.md)
 
 ## ✪ UI Tweaks & Hacks
 
