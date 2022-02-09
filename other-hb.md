@@ -36,7 +36,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
     * ppPlay - multi codec player
     * PS4Player - a simple MP4 player with .srt subtitle support.
   
- ### No PSN apps
+### No PSN apps
  
  * These apps previously needed PSN to use them, but have been patched for jailbroken users.
     * Pluto TV
