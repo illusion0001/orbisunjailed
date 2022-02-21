@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 * [★ Backports](backports.md)
 * [★ Remote Play](remoteplay.md)
+* [★ PS4 - PS Vita Cross Saves](cross-saves.md)
 * [★ Online Play](onlineplay.md)
 * [★ Cheats](cheats.md)
 * [★ FPS Patches & Mods](fps-patches-mods.md)
