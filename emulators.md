@@ -82,7 +82,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * Before attempting, check compatibility list here (if a game is not on the list, feel free to test it):
 <a href="https://docs.google.com/spreadsheets/u/0/d/1X4iLL8J5sPMlxr_XbfZ-3f21IF9ni-otn2wwl-4hzsk/htmlview#"> Sega Saturn Compatibility List </a>
 * Download and extract SATURN-FPKG:
-   * <a href="https://www.psx-place.com/threads/update-v1-1-saturn-fpkg-convert-saturn-games-into-ps4-fpkgs.36031/"> SATURN FPKG <a/>
+   * <a href="https://www.psx-place.com/threads/update-v1-1-saturn-fpkg-convert-saturn-games-into-ps4-fpkgs.36031/"> SATURN FPKG </a>
    * [Backup mirror](/backupfiles/SATURN-FPKG_v1.1.7z)
 * Download your favourite Saturn rom. Make sure it is either in a .bin and .cue file format.
 * Launch SATURN-FPKG. In the Disc section select the .bin file.
