@@ -99,7 +99,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * For the majority of the systems, RetroArch is the recommended option.
 * Note that RetroArch has been unofficially ported, thus not all cores from PC version might be available.
 * Games can be loaded via a USB drive formatted as exFAT. The roms can be placed in a folder.
-* Retroarch and it's Core Installer can be downloaded and installed via the 
+* RetroArch and it's Core Installer can be found here: <a href="https://www.psx-place.com/threads/retroarch-ps4-r4-released-21-new-cores-added-ppsspp-mame-2015-new-dynarec-support-flycast.30137/"> RetroArch </a>
+* Alternatively, it can also be found via the 
 [Homebrew Store](hb-store.md)
 * Order of installation: Retroarch Core Installer > Ok to install every core and then RetroArch.
 * Done.
