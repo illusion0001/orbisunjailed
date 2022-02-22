@@ -92,6 +92,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 #### End Notes!:
 * As this is a fpkg theme, this cannot be made permanent/persistent after reboot!
+* Before trying to install or if you encounter any error, check the pkg using orbis-pub-chk. It will tell you all the errors. Loudness range error for bgm at9 file can be ignored.
 * If the source files are playing too fast/slow, you must edit the <case wait="2"> file again. NOTE!: If any edits are made, you have to also make a new Content-ID in param.sfo and the project settings when building pkg, otherwise it will cause issues such as the theme not applying!
   
   
