@@ -53,7 +53,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 * Here are all the other things you can change:
    * sce_sys/icon0.png. Dimensions must be : 512x512, file must be png! This is the icon of the theme seen in Settings-Theme.
-   * sound/bgm_home.at9 and all the .vag files. bgm_home is the background music, a .wav can be converted via at9tool. The .vag files are the sound effects, .wav can be easily converted via MFAudiov11. Note!: Files must be at 48000Hz.
+   * sound/bgm_home.at9 and all the .vag files. bgm_home is the background music, a .wav can be converted via at9tool. The .vag files are the sound effects, .wav can be easily converted via vag2conw.exe . Note!: Files must be at 48000Hz.
    * texture/content_icon and texture/function_icon is where all the icons are. Content_Icon files must be .png at 512x512. Function_Icon files must be .png at 128x128.
    * texture/preview.png is the preview file for the theme (just before applying the theme in Settings). Must be .png at 1920x1080.
    * /theme.xml. Here you can change the colors of the font and what color the theme will use for menus like Settings, etc. 
