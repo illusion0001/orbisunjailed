@@ -23,7 +23,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ## Enough talk, let's start...
 
- * Payload Guest can be found via [Homebrew Browser](hb-store.md).
+ * Payload Guest can be downloaded <a href="https://github.com/Al-Azif/ps4-payload-guest"> here </a>
+ * Alternatively, it can also be found via [Homebrew Store](hb-store.md)
  * Jailbreak the PS4 using GoldHEN.
  * **Navigate to Settings > GoldHEN > Check Enable BinLoader Server.**
  * In order for the payloads to be seen in Payload Guest, you can either:
