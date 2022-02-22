@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 ## Enough talk, let's start...
 
 ### Managing save-game files
- * Apollo Save Tool can be downloaded <a href="https://github.com/bucanero/apollo-ps4"> here </>
+ * Apollo Save Tool can be downloaded <a href="https://github.com/bucanero/apollo-ps4"> here </a>
  * Alternatively, it can also be found via [Homebrew Store](hb-store.md)
  * Jailbreak you PS4 using GoldHEN.
 
