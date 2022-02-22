@@ -49,7 +49,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 <a href="https://www.psdevwiki.com/ps4/PS2_Classics_Emulator_Compatibility_List"> PS2 Compatibility List </a>
 * Download and extract PS2-FPKG:
    * <a href="https://www.psx-place.com/threads/release-ps2-fpkg-0-6-by-jabu-new-tool-to-convert-ps2-games-for-ps4.30350/"> PS2-FPKG </a>
-   * [Backup mirror](/backupfiles/PS2-FPKG v0.6.7z)
 * Download your favourite PS2 rom. Make sure it is either in a .ISO or .bin and .cue file format.
 * Launch PS2-FPKG. In the Disc section select the .ISO or .bin file. Also select the other disc .ISO or .bin files in the appropriate section.
 * Rename the tile if it hasn't updated to the game name. Add your own NP Title if it hasn't updated.
