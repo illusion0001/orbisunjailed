@@ -36,7 +36,7 @@ To keep it short, different firmwares will need different exploits, thus can lea
 
 ## 2.1 Optional - update without erasing HDD
 
- * Download 9.00 (or your desired) firmware file on your PC by visiting one of the sites **(do not get beta firmwares - get recovery/full firmwares - should be over 1GB file size depending on the version)**:
+ * Download 9.00 (or your desired) firmware file on your PC by visiting one of the sites **(do not get beta firmwares)**:
     * <a href="https://darksoftware.xyz/PS4/FWlist"> DKS PS4 Firmwares </a> - Recommended because of the faster download speeds but requires creation of an account on the site.
     * <a href="https://darthsternie.net/ps4-firmwares/"> Darthsternie's Firmwares </a> - No account required, but slower download speeds.
  * Unpack your archive and rename the file to **PS4UPDATE.pup** (must be in all caps).
