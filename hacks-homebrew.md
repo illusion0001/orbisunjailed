@@ -43,7 +43,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * [★ app.db Tweaks / Remove Apps from Homescreen](app-db.md)
 * [★ .rco Tweaks / UI & Sound Effects Tweaks](rcotweak.md)
 
-## ✪ Linux & Other Useful Info
+## ✪ Miscellaneous
 
 * [★ Linux Installation](linux-install.md)
 * [★ Backup sflash and PS4's HDD](sflash-backup.md)
