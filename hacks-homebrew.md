@@ -40,6 +40,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 * [★ Permanent Retail Theme Unlocker](retail-theme-unlock.md)
 * [★ Custom Profile Pictures / Avatar](profile-picture.md)
+* [★ ORBIS Toolbox](orbis-toolbox.md)
 * [★ Custom Dynamic & Static Themes](custom-theme.md)
 * [★ app.db Tweaks / Remove Apps from Homescreen](app-db.md)
 * [★ .rco Tweaks / UI & Sound Effects Tweaks](rcotweak.md)
