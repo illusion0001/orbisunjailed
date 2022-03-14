@@ -34,7 +34,7 @@ To keep it short, different firmwares will need different exploits, thus can lea
  * 8.0x & 8.50 - update to 9.00
  * 9.00 - currently the latest exploitable firmware - Stay!
 
-## 2.1 Optional - update without erasing HDD
+## 2.1 Update without erasing HDD
 
  * Download 9.00 (or your desired) firmware file on your PC by visiting one of the sites **(do not get beta firmwares)**:
     * <a href="https://darksoftware.xyz/PS4/FWlist"> DKS PS4 Firmwares </a> - Recommended because of the faster download speeds but requires creation of an account on the site.
