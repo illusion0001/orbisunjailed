@@ -46,8 +46,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ## ✪ Miscellaneous
 
-* [★ Linux Installation](linux-install.md)
+* [★ Upgrading / Replacing PS4's Internal HDD](hdd-upgrade.md)
 * [★ Backup sflash and PS4's HDD](sflash-backup.md)
+* [★ Linux Installation](linux-install.md)
 
 ## ✪ Final notes
 
