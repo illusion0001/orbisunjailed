@@ -27,7 +27,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  * Make sure you have GoldHEN 2.2 first! A quick way to see your version is by going to Settings > System > System Information.
  * If you have a older version, reboot your PS4, clear Internet's Browser Cookies & Browsing Data, and re-load your exploit host.
  * After you load GoldHEN, FTP to your PC or use PS4Xplorer and navigate to **/data/GoldHEN/cheats/**.
- * <a href="https://www.mediafire.com/file/ozve6pyf755ujub/PS4TRAINER_JSON.zip/file" Download and extract all json files to json folder </a>.
+ * <a href="https://www.mediafire.com/file/ozve6pyf755ujub/PS4TRAINER_JSON.zip/file"> Download and extract all json files to json folder </a>.
  * After copying all json files, simply open your game, let it load and hold down Share button on your PS4 controller to bring GoldHEN Cheats Manager.
  * Done.
 
