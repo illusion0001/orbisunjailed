@@ -38,7 +38,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
      * shutdown = value ; This option will shutdown the console after dumping. 0 = disabled, 1 = enabled.
   * Back to the PS4 insert the USB Drive and load your game to the main menu. **Note!: keep the game ONLY on the main menu!**
   * Hit the PS button on your controller to go the homescreen and **DO NOT CLOSE THE GAME**.
-  * Open PS4's internet browser and navigate to the following site: http://karo218.ir/
+  * Open PS4's internet browser and navigate to the following site: https://kar0218.github.io/
   * Select your firmware and select Dumper game.
   * If you see Not Enough Memory errors continue by hitting OK.
   * Once it has loaded, the dumping process has started. **Wait and have patience. Games on PS4 are huge, so it will take a long time.**
