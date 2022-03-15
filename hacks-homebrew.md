@@ -17,7 +17,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ## ✪ Game Related Hacks & Tweaks
 
-* [★ Backports](backports.md)
 * [★ Remote Play](remoteplay.md)
 * [★ PS4 - PS Vita Cross Saves](cross-saves.md)
 * [★ Online Play](onlineplay.md)
@@ -49,6 +48,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 * [★ Upgrading / Replacing PS4's Internal HDD](hdd-upgrade.md)
 * [★ Backup sflash and PS4's HDD](sflash-backup.md)
+
+## ✪ Reference guides
+
+* This section is meant for hacks and tweaks that aren't universally done the same way for every use case. Depending on the game, PS4 model, you will need to figure out mostly everything on your own.
+* [★ Backports](backports.md)
 * [★ Linux Installation](linux-install.md)
 
 ## ✪ Final notes
