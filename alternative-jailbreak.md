@@ -76,3 +76,7 @@ Proxy Server: Do Not Use</strong>
 ## Final notes
  
  * Your PC must be running first time including the XAMPP Apache start and fakedns.py script. For hosts with caching, you need to do this only once.
+
+## Congrats, you have now jailbroken your PS4!
+
+ * Now that you have successfully jailbroken your PS4, why not take look at what you can further do, such as <a href="https://florinsdistortedvision.github.io/orbisunjailed/gaming/"> Games, Updates and DLC </a> and <a href="https://florinsdistortedvision.github.io/orbisunjailed/hacks-homebrew/"> Hacks and Homebrew </a> .
