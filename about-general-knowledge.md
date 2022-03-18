@@ -59,3 +59,7 @@ While the advantages are plenty, you will lose some functionality such as:
   * CFW = Custom FirmWare, a full fan-made firmware, designed for various jailbroken uses. **Note!: PS4 does not have any CFW**.
   * FAKE Packages (fake pkg or FPKG) = Homebrew packages that have not been created or verified by Sony. They are different from retail because they do not need a license or disc to be inserted, but requires the PS4 to jailbroken before attempting to launch them. While the name contains *fake*, they are not malicious, rather a term used to differentiate them from retail packages.
   * RETAIL Packages (retail pkg) = Packages created and verified by Sony that usually come directly from PS Store. These packages cannot be launched if the user does not have a license for the content they wish to launch. Themes however are the only retail packages that can be unlocked.
+
+## Ready to start?
+
+ * Now that you have at least a basic knowledge of what you can do and can't do while jailbroken, <a href="https://florinsdistortedvision.github.io/orbisunjailed/Jailbreak/"> let's continue with the jailbreaking process </a>.
