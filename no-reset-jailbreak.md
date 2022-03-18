@@ -114,6 +114,11 @@ Proxy Server: Do Not Use</strong>
 	<li>Will my PS4 die from doing this? No, even forced reboots won't kill your PS4 unless you're doing it every 2 seconds for years :)</li>
 </ul>
 
+## Congrats, you have now jailbroken your PS4!
+
+ * Now that you have successfully jailbroken your PS4, why not take look at what you can further do, such as <a href="https://florinsdistortedvision.github.io/orbisunjailed/gaming/"> Games, Updates and DLC </a> and <a href="https://florinsdistortedvision.github.io/orbisunjailed/hacks-homebrew/"> Hacks and Homebrew </a> .
+
+
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
