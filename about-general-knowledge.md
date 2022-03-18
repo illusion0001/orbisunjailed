@@ -41,11 +41,10 @@ After a successful jailbreak, you can unlock and try the following:
 
 While the advantages are plenty, you will lose some functionality such as:
 
-<ul>
-	<li>Online play on <strong>most</strong> games. This is the biggest factor of jailbreaking that many can live without. I used the term most because you can play online on some games by using custom servers, but that is more a bonus than something you should expect.</li>
-	<li>All PSN features such as messaging, online trophy syncing, various PS Plus features such as online save data upload and other features that are dependent on PSN such as Spotify.&nbsp;</li>
-	<li>Depending on the release date of the jailbreak, firmware and games, some newer games will not be available. As soon as new jailbreak will appear, those new games will also appear.</li>
-</ul>
+ * Online play on **most** games. This is the biggest factor of jailbreaking that many can live without. I used the term most because you can play online on some games by using custom servers, but that is more a bonus than something you should expect.
+ * All PSN features such as messaging, online trophy syncing, various PS Plus features such as online save data upload and other features that are dependent on PSN such as Spotify.
+ * Depending on the release date of the jailbreak, firmware and games, some newer games will not be available. As soon as new jailbreak will appear, those new games will also appear.
+ * **Jailbreaking, regardless of firmware version, is NOT permanent/persistent after reboot or shutdown. Do not compare it to PS3 or Vita, a CFW is almost impossible on PS4, as of today.**
 
 ## Other useful terms to know
 
