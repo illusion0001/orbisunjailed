@@ -53,3 +53,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 
 *Credit for images: Modded Warfare*
+
+
+## Now we're gaming!
+
+ * Now that you have some basic knowledge on how gaming works on your PS4, why not take look at what you can further do, with the likes of <a href="https://florinsdistortedvision.github.io/orbisunjailed/hacks-homebrew/"> Hacks and Homebrew </a> .
