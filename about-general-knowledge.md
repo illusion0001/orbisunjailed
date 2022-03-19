@@ -46,6 +46,24 @@ While the advantages are plenty, you will lose some functionality such as:
  * Depending on the release date of the jailbreak, firmware and games, some newer games will not be available. As soon as new jailbreak will appear, those new games will also appear.
  * **Jailbreaking, regardless of firmware version, is NOT permanent/persistent after reboot or shutdown. Do not compare it to PS3 or Vita, a CFW is almost impossible on PS4, as of today.**
 
+
+## Useful terms to know
+
+  * Kernel panic = a forced reboot or shutdown caused by the unsuccessful attempt to jailbreak.
+  * Webkit exploit = the first part of a full jailbreak, a vulnerability in PS4's Internet Browser (currently every single jailbreak uses this method).
+  * Kernel exploit = the second part of a full jailbreak, a vulnerability in PS4's kernel which is the essential center of the operating system (provides basic services for all other parts of the OS).
+  * GoldHEN = HEN is a abbreviation of Homebrew Enabler, that allows unlocking the ability to install and play packages (games or apps). GoldHEN is the definitive version of HEN which also adds more features (VR enabler, Remote Package Insalls, Rest Mode support, external HDD supoort, Debug Trophies and many <a href="https://github.com/GoldHEN/GoldHEN#features"> more </a>.
+  * Homebrew = the term in PS4's scene, is any piece of application, modification of system that hasn't been directly done by Sony (ex: PS4Xplorer is a fan made file manager in form of a application)
+  * Local Account = default type of accounts PS4 can have, meant to be a guest account
+  * Activated Account = the other type of accounts PS4 can have, that tricks the system into thinking is a valid PSN account that can unlock some locked features such as save data management (USB only). **Note!: This is not like a actual PSN account, nor you can use it for PSN!**
+  * Package (pkg) = the main format PS4 recognizes to pack games, updates, DLC, themes and more (similar to a archive).
+  * Payload (in a .bin or .js format) = a file that allows modifying and adding unsigned code to run on the PS4.
+  * FTP Transfers = FTP stands for File Transfer Protocol, it is used to remotely send and receive files from and to the PS4 to a PC without the need of USB drives.
+  * CFW = Custom FirmWare, a full fan-made firmware, designed for various jailbroken uses. **Note!: PS4 does not have any CFW**.
+  * FAKE Packages (fake pkg or FPKG) = Homebrew packages that have not been created or verified by Sony. They are different from retail because they do not need a license or disc to be inserted, but requires the PS4 to jailbroken before attempting to launch them. While the name contains *fake*, they are not malicious, rather a term used to differentiate them from retail packages.
+  * RETAIL Packages (retail pkg) = Packages created and verified by Sony that usually come directly from PS Store. These packages cannot be launched if the user does not have a license for the content they wish to launch. Themes however are the only retail packages that can be unlocked.
+  * ERROR CODES = error codes are meant for a quick identification of different type of corruptions the PS4 can have. <a href="https://www.psdevwiki.com/ps4/Error_Codes"> A list of error codes and some descriptions can be found here </a>.
+
 ## Payloads Explanations
 
  * **If you are using [Payload Guest](payload-guest.md) or exploit hosts, you might've noticed a few payloads. This will explain what payload does what.**
@@ -72,23 +90,6 @@ While the advantages are plenty, you will lose some functionality such as:
  * Rif Renamer (outdated/ not needed anymore) - Converts FAKE license to FREE license to be used on HEN 1.8 (5.05 payload)
  * PermanentUART - payload that enables UART monitoring permanently
  * Disable ASLR - Disables ASLR (Address Space Layout Randomization) to make working with memory easier/repeatable
-
-## Other useful terms to know
-
-  * Kernel panic = a forced reboot or shutdown caused by the unsuccessful attempt to jailbreak.
-  * Webkit exploit = the first part of a full jailbreak, a vulnerability in PS4's Internet Browser (currently every single jailbreak uses this method).
-  * Kernel exploit = the second part of a full jailbreak, a vulnerability in PS4's kernel which is the essential center of the operating system (provides basic services for all other parts of the OS).
-  * GoldHEN = HEN is a abbreviation of Homebrew Enabler, that allows unlocking the ability to install and play packages (games or apps). GoldHEN is the definitive version of HEN which also adds more features (VR enabler, Remote Package Insalls, Rest Mode support, external HDD supoort, Debug Trophies and many <a href="https://github.com/GoldHEN/GoldHEN#features"> more </a>.
-  * Homebrew = the term in PS4's scene, is any piece of application, modification of system that hasn't been directly done by Sony (ex: PS4Xplorer is a fan made file manager in form of a application)
-  * Local Account = default type of accounts PS4 can have, meant to be a guest account
-  * Activated Account = the other type of accounts PS4 can have, that tricks the system into thinking is a valid PSN account that can unlock some locked features such as save data management (USB only). **Note!: This is not like a actual PSN account, nor you can use it for PSN!**
-  * Package (pkg) = the main format PS4 recognizes to pack games, updates, DLC, themes and more (similar to a archive).
-  * Payload (in a .bin or .js format) = a file that allows modifying and adding unsigned code to run on the PS4.
-  * FTP Transfers = FTP stands for File Transfer Protocol, it is used to remotely send and receive files from and to the PS4 to a PC without the need of USB drives.
-  * CFW = Custom FirmWare, a full fan-made firmware, designed for various jailbroken uses. **Note!: PS4 does not have any CFW**.
-  * FAKE Packages (fake pkg or FPKG) = Homebrew packages that have not been created or verified by Sony. They are different from retail because they do not need a license or disc to be inserted, but requires the PS4 to jailbroken before attempting to launch them. While the name contains *fake*, they are not malicious, rather a term used to differentiate them from retail packages.
-  * RETAIL Packages (retail pkg) = Packages created and verified by Sony that usually come directly from PS Store. These packages cannot be launched if the user does not have a license for the content they wish to launch. Themes however are the only retail packages that can be unlocked.
-  * ERROR CODES = error codes are meant for a quick identification of different type of corruptions the PS4 can have. <a href="https://www.psdevwiki.com/ps4/Error_Codes"> A list of error codes and some descriptions can be found here </a>.
 
 ## Ready to start?
 
