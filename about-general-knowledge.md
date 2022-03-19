@@ -46,6 +46,33 @@ While the advantages are plenty, you will lose some functionality such as:
  * Depending on the release date of the jailbreak, firmware and games, some newer games will not be available. As soon as new jailbreak will appear, those new games will also appear.
  * **Jailbreaking, regardless of firmware version, is NOT permanent/persistent after reboot or shutdown. Do not compare it to PS3 or Vita, a CFW is almost impossible on PS4, as of today.**
 
+## Payloads Explanations
+
+ * **If you are using [Payload Guest](payload-guest.md) or exploit hosts, you might've noticed a few payloads. This will explain what payload does what.**
+ * GoldHEN (can be various versions) - the main payload to enable Homebrew (games, apps, themes)
+ * Cheat Copy - Copy .json and .shn files from USB to PS4, to be used for GoldHEN Cheat Manager
+ * BinLoader - Listens on port 9020 for remote sending payloads (in a .bin format) from PC
+ * MiraLoader - Listens on port 9021 for remote sending Mira payload (in a .bin format) from PC
+ * Mira - secondary Homebrew Enabler, some payloads need Mira to work correctly
+ * WebRTE - payload that enables PS4Trainer
+ * PS4Debug - PS4 debugger payload (except kernel mode debugging)
+ * Orbis Toolbox - UI payload that enables multiple features such as SOC temperature, FPS, etc.
+ * Web Activator - web payload of PS4OfflineActivator, meant to activate local accounts with custom account ID
+ * FTP - full access FTP payload
+ * App2USB - payload that moves installed games to external HDD/USB drive (does not work if HDD is formatted as external storage)
+ * ToDex Enable and Disable - Unlocks some debug features from a DevKit/TestKit such as debug trophies on retail consoles
+ * Disable Updates and Enable Updates - payload that creates a PS4UPDATE.pup folder in UPDATE folder to block downloading a update file from Sony servers
+ * History Blocker - Disables the automatic loading of last viewed site when launching Internet Browser
+ * Enable Browser (outdated / not needed anymore) - payload that permanently enables Internet Browser on firmwares before 5.05
+ * Dumper - dumps game/app/kernel modules/modules on a external HDD
+ * Linux - Linux loader of various RAM to VRAM modes (1GB to 5GB)
+ * DB Backup and DB Restore - Dumps User folder and trophies to a external HDD or USB drive
+ * Exit IDU - Disables IDU Mode (Individual Display Unit). This mode is used for display consoles in stores
+ * Fan Control - Sets a user determined PS4 fan value to control temperature
+ * Rif Renamer (outdated/ not needed anymore) - Converts FAKE license to FREE license to be used on HEN 1.8 (5.05 payload)
+ * PermanentUART - payload that enables UART monitoring permanently
+ * Disable ASLR - Disables ASLR (Address Space Layout Randomization) to make working with memory easier/repeatable
+
 ## Other useful terms to know
 
   * Kernel panic = a forced reboot or shutdown caused by the unsuccessful attempt to jailbreak.
