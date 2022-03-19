@@ -1,4 +1,5 @@
-title: "Apollo Save Tool"
+---
+title: "Wall of Shame"
 mathjax: true
 layout: post
 categories:
@@ -14,6 +15,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "hacks-homebrew.md", title: "Hacks & Homebrew"}
   - {file: "wall-of-shame.md", title: "Wall of Shame"}
 ---
+
 
 ## What is the Wall of Shame?
  * Wall of Shame is a section of known scammers/fakers of various PS4 jailbreak related work.
