@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "home.md", title: "Home"}
   - {file: "about-general-knowledge.md", title: "About & General Knowledge"}
   - {file: "Jailbreak.md", title: "Jailbreak"}
-  - {file: "gaming.md", title: "Games, Updates & DLC"}
+  - {file: "gaming.md", title: "Gaming"}
   - {file: "hacks-homebrew.md", title: "Hacks & Homebrew"}
   - {file: "wall-of-shame.md", title: "Wall of Shame"}
 
