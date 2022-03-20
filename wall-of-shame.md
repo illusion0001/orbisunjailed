@@ -26,7 +26,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * **upalm** - stealing code and claiming he made them / hosting piracy / fake jailbreak / wanting pay to access jailbreak site / stealing trainer site
 * **Whispersintheb1 / Umar** - fake online jailbreak claim
 * **Andrew2007** - fake online access claim while jailbroken / clickbait / selling modded accounts of various games
-* **xHARDHeMPuS** - fake kernel exploit claims
+* **PS4 EXPLOIT SERIES** - fake kernel exploit claims / fake jailbreak / fake forum site / fake tools / survey/password scam
+* **xHARDHeMPuS** - fake kernel exploit claims / fake jailbreak / fake forum site / survey/password scam
 * **Hazer Mods** - fake jailbreak video
 * **you are a captain** - fake jailbreak video
 * **Playstation Gaming Baby** - fake jailbreak video
