@@ -23,6 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  
 ## The shameless list, in no particular order:
 
+* **upalm** - stealing code and claiming he made them / hosting piracy / fake jailbreak / wanting pay to access jailbreak site / stealing trainer site
 * **Whispersintheb1 / Umar** - fake online jailbreak claim
 * **Andrew2007** - fake online access claim while jailbroken / clickbait / selling modded accounts of various games
 * **xHARDHeMPuS** - fake kernel exploit claims
