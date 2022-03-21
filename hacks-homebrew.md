@@ -38,7 +38,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 ## ✪ UI Tweaks & Hacks
 
 * [★ Permanent Retail Theme Unlocker](retail-theme-unlock.md)
-* [★ Custom Profile Pictures / Avatar](profile-picture.md)
+* [★ Customizing Profile/Avatar](profile-picture.md)
 * [★ ORBIS Toolbox](orbis-toolbox.md)
 * [★ Custom Dynamic & Static Themes](custom-theme.md)
 * [★ app.db Tweaks / Remove Apps from Homescreen](app-db.md)
