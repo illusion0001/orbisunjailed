@@ -16,6 +16,12 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "hacks-homebrew.md", title: "Hacks & Homebrew"}
 ---
 
+## Before reading..
+
+* Note that, for every info that is not the same as this section, you have the possibility to get scammed. **Any info claiming CFW, downgrading, online jailbreaks, retail game unlockers, etc are scams. Please take a look at <a href="https://florinsdistortedvision.github.io/orbisunjailed/wall-of-shame/"> Wall of Shame </a> to see if the person you are getting your info is a known scammer or not.**
+* Thank you!
+
+
 ## Why and what exactly is Orbis?
 
 Orbis is PS4's code name used internally by Sony when it was in development. Orbis is also the name of the native operating system of the PlayStation 4, a fork of FreeBSD version 9.0, released on January 12, 2012.
