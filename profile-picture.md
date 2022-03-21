@@ -1,5 +1,5 @@
 ---
-title: "Custom Profile Pictures"
+title: "Customizing Profile/Avatar"
 mathjax: true
 layout: post
 categories:
@@ -15,12 +15,13 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "hacks-homebrew.md", title: "Hacks & Homebrew"}
 ---
 
-## What are custom profile pictures?
+## How can I customize my avatar?
 
 * Profile picture is the profile icon found in the various parts of the OS, such as homescreen (function area), quick menu, log-in screen, etc.
-* This guide will show you how you can easily make any picture as the profile avatar.
+* This guide will show you how you can easily make any picture as the profile avatar and how to change your account name.
+* **Note that you need a activated account first!**
 
-## Enough talk, let's start...
+## Changing avatar picture
 
 * Download and install:
      * <a href="https://mega.nz/file/zs5GUCjT#BGEh3sAYpyFwxFM6dXVYS2j1jTwlcb2y70XenWOl2oU"> PS4 Avatar Maker by Lappy </a>
@@ -36,4 +37,16 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * Open PS4Xplorer, navigate the location of the avatar you set.
 * Select it and press X to apply (you might need to do it 2 times).
 * To see it, log out and log back in your account (you don't need to reboot).
+* Done.
+
+## Changing profile name
+
+* Jailbreak your PS4 with GoldHEN.
+* Navigate to PS4 > GoldHEN > Enable FTP server. Take note of PS4's IP Address.
+* On PC, open FileZilla or your desired FTP client and input the PS4's IP as host and port 2121.
+* Navigate to **/system_data/priv/cache/profile/0xNUMBERSYOUHAVE**.
+* Edit online.json on Notepad++ or any text editor. If you don't have a online.json, <a href="https://gbatemp.net/attachments/0x10000009-generic-rar.220121/"> download a copy here </a>
+* Replace "myFirstName" with your desired name.
+* Replace "myLastName" with your desired name. **If you don't want a last name, leave the section as "".**
+* Save changes and replace online.json with old one.
 * Done.
