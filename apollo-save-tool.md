@@ -44,6 +44,16 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  * Navigate to USB saves and copy to HDD.
  * Open your game, done.
 
+#### Managing encrypted saves
+ * Encrypted saves are saves made from retail/unjailbroken PS4s made via Account Data Management feature. Note, that the saves must be from 9.00 or lower.
+ * On a USB drive formatted as exFAT, put the saves in the following structure : **/PS4/SAVEDATA/account-id/** *(account-id will be a section of numbers and letters, ex: 1gc30977hke0c76)
+ * Back to the PS4, open the game the save was made for, and make a brand new save. **Minimize the game and keep the game running!**.
+ * Open Apollo Save Tool.
+ * Navigate to USB Saves. Select the save.
+ * Select copy to HDD. Select yes to resign it.
+ * Check to see if the save is present in HDD Saves.
+ * Done.
+
 #### Online saves
  * These kind of saves usually come from Save Wizard. **Note that Save Wizard is not needed.**
  * Saves can be found <a href="https://www.savegamefiles.com/category/ps4-savegame/"> here </a>. 
@@ -65,7 +75,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  * Back to Apollo Save Tool, select HDD saves. Select your new game ID, select Import decrypted save files. Select Apply Changes & Resign.
  * Open your game. You should see the same name as before, but a different size. Done.
 
+
 ### Activating offline profiles
+ * **Note that you cannot change the account ID to a ID you can choose.**
  * Open Apollo Save Tool, navigate to User Tools.
  * Select Activate PS4 Accounts.
  * Select your profile.
