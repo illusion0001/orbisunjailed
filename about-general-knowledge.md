@@ -46,6 +46,19 @@ While the advantages are plenty, you will lose some functionality such as:
  * Depending on the release date of the jailbreak, firmware and games, some newer games will not be available. As soon as new jailbreak will appear, those new games will also appear.
  * **Jailbreaking, regardless of firmware version, is NOT permanent/persistent after reboot or shutdown. Do not compare it to PS3 or Vita, a CFW is almost impossible on PS4, as of today.**
 
+## How can I downgrade, if I'm not on a exploitable PS4?
+ 
+ * **Downgrading is NOT possible with just firmware installs on normal PS4's, only on TestKits and DevKits.**
+ * There is a way to revert to a previous firmware **ONLY IF the user has made backups of sflash, syscon and HDD and is good at soldering**. If you are curious, or you are up for the task, [here is a guide](/backupfiles/SYSGLITCH_DOWNGRADE.pdf)
+    * Why? Can't I just swap HDDs, or put a lower firmware on USB and install it via Safe Mode? 
+    * **NO. The firmware is not just stored on the internal HDD. Part of the firmware is stored in a read-only encrypted soldered chip on the PS4's motherboard that also keeps track on the installed firmware and restricts the install of a lower firmware.** The reason, is to ensure the user stays on latest firmware and it also makes the firmware experience faster and easier than normal.
+ 
+## Why are newer games not available on latest jailbroken firmwares?
+
+ * Game backups can be made by either <a href="https://florinsdistortedvision.github.io/orbisunjailed/dumping/"> dumping </a> or by knowing a unique, very hard to guess, decryption key. Most backups are made by dumping.
+ * Sony implemented a minimum firmware for both games and updates to games, forcing the user to update to launch the content. To dump a game, the user must have the game running, thus why a dump is not possible.
+ * As for the decryption keys, you will rarely see game backups being made from this method. This method might be better for updates, on which, a fpkg version of the update can be made with the decryption key, as some games will have the same key for both main game and updates.
+
 
 ## Useful terms to know
 
