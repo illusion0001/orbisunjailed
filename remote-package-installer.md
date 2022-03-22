@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 ### Installing and setting up Remote Package Installer
 
   * Remote Package Installer can be downloaded and installed via [Homebrew Store](hb-store.md).
-  * After installing, open it and **keep it open, do not minimize it or go to your homescreen**. The app will just show the splash screen.
+  * After installing, open it and **keep it open**. The app will just show the splash screen.
   * Download and install/unpack:
     * [PS4 PKG Sender](/backupfiles/Ps4_Pkg_Sender_V1.07.zip)
     * <a href="https://www.microsoft.com/en-nz/download/details.aspx?id=48130"> .NET Framework 4.6 </a>
@@ -47,3 +47,4 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  * This can happen with both small and big games, updates etc.
  * **If a game fails to install, close Pkg Sender from PC, close Remote Package Installer on PS4 and clear all notifications from PS4.**
  * If you get a server 500 error on Pkg Sender, close Pkg Sender and reopen and try sending again the pkg.
+ * If a big game stops downloading half-way or somewhere close to that, hit Stop Queue in Pkg Sender, close it and reopen it, and send the same pkg again.
