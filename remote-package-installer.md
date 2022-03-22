@@ -39,3 +39,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
   * For the best connection possible, use ethernet cable connection.
   * For computers or laptops with a Wi-Fi adapter and a ethernet port, you can connect a ethernet cable directly from the PS4 to the PC. On your PC open Control Panel > Network and Internet > Network and Sharing Center > Change Adapter settings > Right-click your Wi-Fi adapter > Proprieties > Sharing tab > Check Allow other networks to connect through this computer's internet connection. For those who have a drop-down menu, select Ethernet. Select OK.
+
+
+### Fixing some bugs
+
+ * Remote Package Installer can jam sometimes, from multiple unknown reasons.
+ * This can happen with both small and big games, updates etc.
+ * **If a game fails to install, close Pkg Sender from PC, close Remote Package Installer on PS4 and clear all notifications from PS4.**
+ * If you get a server 500 error on Pkg Sender, close Pkg Sender and reopen and try sending again the pkg.
