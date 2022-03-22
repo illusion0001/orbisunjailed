@@ -26,14 +26,17 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  * **This method has been added to GolHEN 2.2. This method is the new recommended way to use cheats.**
  * Make sure you have GoldHEN 2.2 first! A quick way to see your version is by going to Settings > System > System Information.
  * If you have a older version, reboot your PS4, clear Internet's Browser Cookies & Browsing Data, and re-load your exploit host.
- * After you load GoldHEN, FTP to your PC or use PS4Xplorer and navigate to **/data/GoldHEN/cheats/**.
- * <a href="https://www.mediafire.com/file/ozve6pyf755ujub/PS4TRAINER_JSON.zip/file"> Download and extract all json files to json folder </a>.
-   * [Backup mirror](/backupfiles/JSONPS4CHEATS.zip)
- * After copying all json files, simply open your game, let it load and hold down Share button on your PS4 controller to bring GoldHEN Cheats Manager.
+ * Download and install on your PS4:
+   * <a href="https://github.com/GoldHEN/GoldHEN_Cheat_Manager"> GoldHEN Cheat Manager </a>
+ * Open GoldHEN Cheat Manager.
+ * Select Update. 
+ * To bring up GoldHEN Cheats, simply start your desired game, wait until it loads and hold down Share button on your PS4 Controller. Check and uncheck your desired cheats.
  * Done.
+ 
+ 
+## Old method via Internet Browser
 
-
-## Online Cheats
+### Online Cheats
 
  * **This does not mean tweaks for online multiplayer games, rather online method of achieving these cheats.**
  * Jailbreak your PS4 using GoldHEN.
@@ -48,7 +51,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  * Your cheats will apppear. Done
 
 
-## Offline Cheats
+### Offline Cheats
 
  * **You will need internet connection the first time, then the website will load without one**
  * Jailbreak your PS4 using GoldHEN.
