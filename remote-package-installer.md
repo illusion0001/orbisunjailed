@@ -25,26 +25,17 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   * Remote Package Installer can be downloaded and installed via [Homebrew Store](hb-store.md).
   * After installing, open it and **keep it open**. The app will just show the splash screen.
   * Download and install/unpack:
-    * [PS4 PKG Sender](/backupfiles/Ps4_Pkg_Sender_V1.07.zip)
+    * [PS4 PKG Sender 1.3 by Modded Warfare](/backupfiles/pkgsender1.3.zip)
     * <a href="https://www.microsoft.com/en-nz/download/details.aspx?id=48130"> .NET Framework 4.6 </a>
     * <a href="https://nodejs.org/en/"> Node.js </a>
   * After installing everything, open cmd and paste the following command: **npm install http-server -g**
   * In cmd paste the following command: **ipconfig**. In IPv4 section, take note of IP Address.
   * Open PS4 PKG Sender. Server IP is your PC's IP Address. Input your PS4 IP in PS4 IP section.
   * Drag and drop your packages into the program.
-  * Select Start Queue. Your packages will start to be sent to the PS4.
+  * Select Send Package. Your packages will start to be sent to the PS4.
   * Done.
 
 ### Improving the speed of Remote Package Installer
 
   * For the best connection possible, use ethernet cable connection.
   * For computers or laptops with a Wi-Fi adapter and a ethernet port, you can connect a ethernet cable directly from the PS4 to the PC. On your PC open Control Panel > Network and Internet > Network and Sharing Center > Change Adapter settings > Right-click your Wi-Fi adapter > Proprieties > Sharing tab > Check Allow other networks to connect through this computer's internet connection. For those who have a drop-down menu, select Ethernet. Select OK.
-
-
-### Fixing some bugs
-
- * Remote Package Installer can jam sometimes, from multiple unknown reasons.
- * This can happen with both small and big games, updates etc.
- * **If a game fails to install, close Pkg Sender from PC, close Remote Package Installer on PS4 and clear all notifications from PS4.**
- * If you get a server 500 error on Pkg Sender, close Pkg Sender and reopen and try sending again the pkg.
- * If a big game stops downloading half-way or somewhere close to that, hit Stop Queue in Pkg Sender, close it and reopen it, and send the same pkg again.
