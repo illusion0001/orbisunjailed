@@ -58,6 +58,17 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * Select Create fPKG and wait until it's finished.
 * Add the created pkg to the root of a USB drive and install it on your PS4 by navigating to Settings > GoldHEN > Package Installer.
 * Done.
+##### Fixing PS2 Games
+
+* You might've noticed that the wiki has mentions for fixes or using different emus for PS2-FPKG.
+* Fixes are found here:
+   * <a href="https://www.psx-place.com/threads/research-ps2-emulator-configuration-on-ps4.16131/page-147"> PS2 Config Files </a>
+   * Use search bar (must be signed-in), search for your game and make sure you check "In this thread only".
+   * You will find mentions of what emulator to use, and CLI + LUA fixes.
+   * CLI are .txt files and LUA are .lua files. Both can be done with any notepad editor (make sure you lua files aren't .lua.txt!)
+* Emus can be found here:
+   * <a href="https://github.com/florinsdistortedvision/ps2-classics-emus"> PS2 Classics Emus </a>
+   * Simply unarchive the files and put the emus folder in PS2-FPKG directory. Once you open the program, you will have a drop down list in emulator section.
 
 #### PSP
 
