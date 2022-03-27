@@ -18,7 +18,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 ## PC-PS4 Remote Play
 
 ### Using patched Remote Play client
- * Note that you will need a PSN account (can be a dummy one and never connected/linked to the PS4).
+ * Note that you will need a PSN account (can be a dummy one and never connected/linked to the PS4) to sign in to PC app.
+ * **You must have a local unactivated account**
  * Download and extract the following tools:
     * [Patched Remote Play Client](/backupfiles/PS4 Remote Play 2.6.0.2270.zip)
     * [Remote Play Patcher](/backupfiles/PS4.Remote.Play.Auto-Patcher.zip)
