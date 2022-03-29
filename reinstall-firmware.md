@@ -35,7 +35,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 * Plug the USB stick into an empty slot on your PS4.
 * Select 3. Update System Software > 1. Update from USB Storage Device > OK > Update.
-* The PS4 will now install the firmware and remove everything on the HDD.
+* The PS4 will now install the firmware while keeping everything on the HDD.
 * **REMOVE ANY ETHERNET CABLE AND/OR SKIP WI-FI SETUP. Keep everything offline during and after setting up your PS4.**
 * **After setup, navigate to Settings > System > Automatic Downloads > Uncheck Featured Content, System Software Update Files, Allow Restart and Application Update Files.**
 * Done.  
