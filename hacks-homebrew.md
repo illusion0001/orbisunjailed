@@ -48,6 +48,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 * [★ Upgrading / Replacing PS4's Internal HDD](hdd-upgrade.md)
 * [★ Offline Activate a Account](activate-account.md)
+* [★ Reinstalling Firmware](reinstall-firmware.md)
 * [★ Backup sflash and PS4's HDD](sflash-backup.md)
 
 ## ✪ Reference guides
