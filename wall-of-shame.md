@@ -24,6 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 ## The shameless list, in no particular order:
 
 * **upalm** - stealing code and claiming he made them / hosting piracy / fake jailbreak / wanting pay to access jailbreak site / stealing trainer site
+* **Nightking (SALT / salt13939424 / nightking_host)** - demanding pay for free homebrew / selling pirated games / selling fpkg PS2 games
 * **Whispersintheb1 / Umar** - fake online jailbreak claim
 * **Andrew2007** - fake online access claim while jailbroken / clickbait / selling modded accounts of various games
 * **PS4 EXPLOIT SERIES** - fake kernel exploit claims / fake jailbreak / fake forum site / fake tools / survey/password scam
