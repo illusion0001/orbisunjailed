@@ -37,7 +37,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  * Self-hosting involves cloning a website then running it locally using your PC as the server.
  * **If you have DNS ISP problem this most likely wont work.**
  * First, find a host you want to clone. Examples:
-     * <a href="https://github.com/KameleonReloaded/900V4B/archive/refs/heads/main.zip"> Kameleon 9.00 JB host </a>
+     * <a href="https://github.com/KAR0218/KAR0218.github.io"> Karo's 9.00 and lower JB host </a>
  * Download and install/unarchive:
     * <a href="https://www.apachefriends.org/ro/download.html"> XAMPP </a>
     * <a href="https://www.python.org/ftp/python/2.7.14/python-2.7.14.msi"> Python </a>
