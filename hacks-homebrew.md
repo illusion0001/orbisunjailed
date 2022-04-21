@@ -46,6 +46,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ## ✪ Miscellaneous
 
+* [★ FPKG Tools](fpkg-explain.md)
 * [★ Upgrading / Replacing PS4's Internal HDD](hdd-upgrade.md)
 * [★ Offline Activate a Account](activate-account.md)
 * [★ Reinstalling Firmware](reinstall-firmware.md)
