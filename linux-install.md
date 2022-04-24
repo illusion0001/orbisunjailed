@@ -43,7 +43,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  * Navigate to Settings > System > Disable HDMI Device Link and HDCP.
  * Navigate to Settings > Sound and Screen > Video Output Settings > Set Resolution to 1080p, RGB Range to Full, HDR and Deep Colour Output to Off.
  * Plug the external USB drive to the PS4.
- * Open PS4's Internet Browser and navigate to : http://karo218.ir/900/index.html. Select Linux 1GB.
+ * Open PS4's Internet Browser and navigate to : https://kar0218.github.io/900CM/index.html. Select Linux 1GB.
  * Wait and have patience. If you see Not Enough Memory errors continue hitting OK until your screen gets dark.
  * Once a wall of text is shown, input: exec install-psxitarch.sh
  * Wait and have patience. After it stopped, input: exec start-psxitarch.sh
