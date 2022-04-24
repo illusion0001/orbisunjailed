@@ -41,7 +41,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ### Activating your account
 
-* On your PS4, open Internet Browser and navigate to https://kar0218.github.io/900N/index.html
+* On your PS4, open Internet Browser and navigate to https://kar0218.github.io/900CM/index.html
 * Select Web Activator. Wait for the site to load.
 * A list of users should now populate. On your user input the account ID you noted earlier.
 * Select Activate.
@@ -50,7 +50,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 ## Activating a account with a random account ID
 
 * **This is the method for a random ID only if you don't care about your saves being sent to your PSN PS5 or latest firmware PS4.**
-* On your PS4, open Internet Browser and navigate to https://kar0218.github.io/900N/index.html
+* On your PS4, open Internet Browser and navigate to https://kar0218.github.io/900CM/index.html
 * Select Web Activator. Wait for the site to load.
 * A list of users should now populate. Just click on the user you want to activate, it should now input a random ID.
 * Select Activate.
