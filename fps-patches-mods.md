@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * While PS4 mods are not as popular as some other platforms like PSVita, PS3, there are some mods you can do to your games than can range from character model swaps, music swaps, etc.
 * FPS patches work by modifying some lines from the game's main executable (eboot.bin) that will toggle FPS unlock by sacrificing resolution. Basically higher FPS will need lower resolution.
 * Here is a list of all 60FPS patches available:
-<a href="https://github.com/illusion0001/illusion0001.github.io/tree/main/_patches"> PS4 60FPS & Resolution Patch List </a>
+<a href="https://illusion0001.com/patch/"> PS4 60FPS & Resolution Patch List </a>
 
 ## Enough talk, let's start...
 
@@ -28,20 +28,14 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 * Download and extract/install the following tools:
     * <a href="https://anonfiles.com/n411Q0Bfxd/Patch_Builder_v1.3.2_zip"> PS4 Patch Builder v.1.3.2 </a>
-    * [unfself](/backupfiles/unfself.zip)
-    * <a href="https://mh-nexus.de/en/downloads.php?product=HxD20"> HxD Editor </a>
-* Open the game .pkg using PS4 Patch Builder
-* Select Extract Package > Select All > Export Files.
-* Navigate to Image0 and check to see if you have eboot.bin.
-* Drag and drop the eboot.bin to unfself.exe. After completition, it should generate a new file called **eboot.bin-decrypted**. You can remove the old eboot.bin.
-* Rename the new eboot to eboot.bin
-* Open HxD and select File > Open > eboot.bin
-* Copy the code for your game and make sure you have the same version needed for the patch: 
-<a href="https://github.com/illusion0001/illusion0001.github.io/tree/main/_patches"> PS4 60FPS & Resolution Patch List </a>
-* On HxD hit Ctrl + F > Hex values and paste the first code from the patches site. It should highlight the required values.
-* Back to the code page replace with the second code.
+    * <a href="https://github.com/illusion0001/py-patcher-bin"> Py-Patcher </a>
+* Dump the update of a game by launching the game and keeping it running. Via FTP dump patch (ac) in /mnt/sandbox/pfsmnt/.
+* Open py-patcher. Select Y to download patch0.
+* Drag and drop eboot.bin to the cmd window.
+* Select the appropriate patch. Wait.
+* A new eboot.bin will appear in eboot.bin-patched folder in pypatch directory. Replace old with new.
 * Open PS4 Patch Builder, select Image 0 on Project Location by dragging and dropping. For Package Settings drag and drop the original game .pkg.
-* On Patch Notes you can add text like "60FPS mode".
+* On Patch Notes you can add text like "60FPS mode". **Make sure to pick a different version than it is (ex: if patch is 01.01, change to 01.011)**
 * Select output and build.
 * Copy the finished pkg to the root of a USB drive.
 * Navigate to Settings > GoldHEN > Package Installer and install the game, updates, dlc (if you don't have them installed already) then the fake update that contains the patch.
