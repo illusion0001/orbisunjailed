@@ -30,6 +30,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
     * <a href="https://anonfiles.com/n411Q0Bfxd/Patch_Builder_v1.3.2_zip"> PS4 Patch Builder v.1.3.2 </a>
     * <a href="https://github.com/illusion0001/py-patcher-bin"> Py-Patcher </a>
 * Dump the update of a game by launching the game and keeping it running. Via FTP dump patch (ac) in /mnt/sandbox/pfsmnt/.
+* Dump the main pkg of the game by getting the app.pkg from /user/app/CUSAID/. *Skip this if you already have the original game's pkg*
 * Open py-patcher. Select Y to download patch0.
 * Drag and drop eboot.bin to the cmd window.
 * Select the appropriate patch. Wait.
