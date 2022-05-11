@@ -30,7 +30,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
     * https://kar0218.github.io/ - Another all in one host by Karo.
  * Simply pick one of these, pick your firmware and select GoldHEN. 
  * **FOR 9.00 ONLY: If you see "Insert USB now", plug in your USB drive we did with Rufus, wait until the notification pops and disappears, then press OK.** If you see "You're all set", it means you now jailbroken the PS4 (also on FW lower than 9.00 this should appear without a USB drive)
- * Congratulations, you now have jailbroken your PS4! Enjoy! **(9.00 users, you need to remove the USB after you see the "You're all set!" screen).**
+ * Additionally, to also block PSN connection like the DNS would've done, you can navigate on your PS4, after jailbreaking, to **Debug settings > PlayStation Network > NP Environment**, and simply change **np** value to any other word (*like block, for example*).
+ *  Congratulations, you now have jailbroken your PS4! Enjoy! **(9.00 users, you need to remove the USB after you see the "You're all set!" screen).**
 
 ### Self-hosting
 
