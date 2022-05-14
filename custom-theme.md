@@ -45,7 +45,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 #### Customizing the speed of frames
 
 * A crucial step is figuring out the right speed of the frames, unfortunately this will most likely be needed as I noticed.
-* Open scene/background.raf/index.xml and look for lines that contain : <case wait="2">. The default value is 2, tinker with the values until your frames are played correctly. Note!: You must change all of them!
+* Open scene/background.raf/index.xml and look for lines that contain : < case wait = "2 "> . The default value is 2, tinker with the values until your frames are played correctly. Note!: You must change all of them!
 * At this point, if you had more frames converted in step 1, you can add the additional lines, following the same structure as the other ones.
 * Save the file.
 
