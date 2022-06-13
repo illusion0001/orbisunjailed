@@ -30,6 +30,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * **PS4 EXPLOIT SERIES** - fake kernel exploit claims / fake jailbreak / fake forum site / fake tools / survey/password scam
 * **xHARDHeMPuS** - fake kernel exploit claims / fake jailbreak / fake forum site / survey/password scam
 * **Hazer Mods** - fake jailbreak video
+* **TotalGame** - clickbait / misinformation/misleading "tutorial" on downgrading
 * **you are a captain** - fake jailbreak video
 * **Playstation Gaming Baby** - fake jailbreak video
 * **Gaming Gear Shivam** - fake jailbreak video
