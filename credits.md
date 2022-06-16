@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 In no particular order:
  * laureeeeeee
+ * 0x199
  * Chendo Chap
  * Specter
  * Znullptr
