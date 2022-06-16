@@ -49,3 +49,4 @@ In no particular order:
  * Homebrew Store team
  * yy oosk
  * CyB1
+ * **AND EVERYONE WHO CONTRIBUTED FOR ANYTHING PS4 HOMEBREW/JB RELATED! :)**
