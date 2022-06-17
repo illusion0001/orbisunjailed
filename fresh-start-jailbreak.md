@@ -40,6 +40,8 @@ To keep it short, different firmwares will need different exploits, thus can lea
 	<li>Download 9.00 (or your desired) firmware file on your PC by visiting one of the sites <strong>(do not get beta firmwares - get recovery/full firmwares - should be over 1GB file size depending on the version)</strong>:</li>
 </ul>
 
+<p><a href="https://archive.midnightchannel.net/SonyPS/Firmware/index.php?cat=PS4SYS">Midnight Channel Archives</a>&nbsp;- Recommended because of the faster download speeds.</p>
+
 <p><a href="https://darksoftware.xyz/PS4/FWlist">DKS - PS4 Official Firmwares (darksoftware.xyz)</a>&nbsp;- Recommended because of the faster download speeds but requires creation of an account on the site.</p>
 
 <p><a href="https://darthsternie.net/ps4-firmwares/">PS4 Firmwares - Darthsternie&#39;s Firmware Archive</a>&nbsp;-&nbsp; No account required, but slower download speeds.</p>
