@@ -25,6 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * Look at the other method, for bigger or smaller HDDs.
 * You will need a HDD enclosure or another way to connect the old and new HDD to a PC and a small USB drive (4GB minimum).
 * Download and extract your firmware **you are currently on. Download recovery firmware**.
+   * <a href="https://archive.midnightchannel.net/SonyPS/Firmware/index.php?cat=PS4SYS">Midnight Channel Archives</a> - Recommended because of the faster download speeds.
    * <a href="https://darksoftware.xyz/PS4/FWlist">DKS - PS4 Official Firmwares (darksoftware.xyz)</a> Recommended because of the faster download speeds but requires creation of an account on the site.
    * <a href="https://darthsternie.net/ps4-firmwares/">PS4 Firmwares - Darthsternie's Firmware Archive</a> No account required, but slower download speeds.
 * **Do not try to download a firmware lower than your current as it will NOT install. Also, do not try to download a higher firmware as it will update your PS4 and you WON'T be able to downgrade**
@@ -71,6 +72,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ### Continuing the guide
 * Download and extract your firmware **you are currently on. Download recovery firmware**.
+   * <a href="https://archive.midnightchannel.net/SonyPS/Firmware/index.php?cat=PS4SYS">Midnight Channel Archives</a> - Recommended because of the faster download speeds.
    * <a href="https://darksoftware.xyz/PS4/FWlist">DKS - PS4 Official Firmwares (darksoftware.xyz)</a> Recommended because of the faster download speeds but requires creation of an account on the site.
    * <a href="https://darthsternie.net/ps4-firmwares/">PS4 Firmwares - Darthsternie's Firmware Archive</a> No account required, but slower download speeds.
 * **Do not try to download a firmware lower than your current as it will NOT install. Also, do not try to download a higher firmware as it will update your PS4 and you WON'T be able to downgrade**
