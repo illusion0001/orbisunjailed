@@ -29,7 +29,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * **Andrew2007** - fake online access claim while jailbroken / clickbait / selling modded accounts of various games
 * **PS4 EXPLOIT SERIES** - fake kernel exploit claims / fake jailbreak / fake forum site / fake tools / survey/password scam
 * **xHARDHeMPuS** - fake kernel exploit claims / fake jailbreak / fake forum site / survey/password scam
-* * **84Ciss** - stealing/copying numerous payloads and adding his name as if he coded them (such as SilverHEN, FTP payloads, etc)
+* **84Ciss** - stealing/copying numerous payloads and adding his name as if he coded them (such as SilverHEN, FTP payloads, etc)
 * **Hazer Mods** - fake jailbreak video
 * **TotalGame** - clickbait / misinformation/misleading "tutorial" on downgrading
 * **you are a captain** - fake jailbreak video
