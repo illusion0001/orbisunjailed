@@ -45,7 +45,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 * **This will NOT keep all data including games, save data.**
 * Download 9.00 (or your current) firmware file on your PC by visiting one of the sites **(do not get beta firmwares - get recovery/full firmwares - should be over 1GB file size depending on the version)**
-   * <a href="https://archive.midnightchannel.net/SonyPS/Firmware/index.php?cat=PS4SYS">Midnight Channel Archives</a> - Recommended because of the faster download speeds.
+   * <a href="https://archive.midnightchannel.net/SonyPS/Firmware/?cat=ps4rec">Midnight Channel Archives</a> - Recommended because of the faster download speeds.
    * <a href="https://darksoftware.xyz/PS4/FWlist">DKS - PS4 Official Firmwares (darksoftware.xyz)</a> Recommended because of the faster download speeds but requires creation of an account on the site.
    * <a href="https://darthsternie.net/ps4-firmwares/">PS4 Firmwares - Darthsternie's Firmware Archive</a> No account required, but slower download speeds.
 * Unpack your archive and rename the file to **PS4UPDATE.pup** (must be in all caps).
