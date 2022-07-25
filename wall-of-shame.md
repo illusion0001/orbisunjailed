@@ -24,10 +24,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 ## The shameless list, in no particular order:
 
 * **upalm** - stealing code and claiming he made them / hosting piracy / fake jailbreak / wanting pay to access jailbreak site / stealing trainer site
-* **Nightking (SALT / salt13939424 / nightking_host)** - demanding pay for free homebrew / selling pirated games / selling fpkg PS2 games / adding leaked/untested versions of GoldHEN that we're not authorized by the creators / risk of software bricking
+* **Nightking (SALT / salt13939424 / nightking_host)** - demanding pay for free homebrew / selling pirated games / selling fpkg PS2 games / adding leaked/untested versions of GoldHEN that were not authorized by the creators / risk of software bricking
 * **Whispersintheb1 / Umar** - fake online jailbreak claim
 * **Andrew2007** - fake online access claim while jailbroken / clickbait / selling modded accounts of various games
-* **Macedo** - adding leaked/untested versions of GoldHEN that we're not authorized by the creators / risk of software bricking
+* **Macedo** - adding leaked/untested versions of GoldHEN that were not authorized by the creators / risk of software bricking
+* **GamerHack** - adding leaked/untested versions of GoldHEN that were not authorized by the creators / risk of software bricking
 * **PS4 EXPLOIT SERIES** - fake kernel exploit claims / fake jailbreak / fake forum site / fake tools / survey/password scam
 * **xHARDHeMPuS** - fake kernel exploit claims / fake jailbreak / fake forum site / survey/password scam
 * **84Ciss** - stealing/copying numerous payloads and adding his name as if he coded them (such as SilverHEN, FTP payloads, etc)
