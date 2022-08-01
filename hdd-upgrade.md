@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 * **This guide will provide how to safely upgrade or replace your PS4's Internal HDD without updating your firmware or losing data.**
 * This guide does not apply to external HDDs as they are seen and act differently on PS4.
+* **If you DON'T want to keep any data but still wish to upgrade your HDD, scroll down to the last section.**
 
 ## Upgrading/replacing HDD with a HDD of same size
 * This is the recommended way to replace your HDD **only if both HDDs are the same size**.
@@ -98,4 +99,22 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * Plug in the USB drive you saved the files earlier.
 * Select DB Restore function.
 * Wait, have patience.
+* Done.
+
+
+## Upgrading/replacing HDD WITHOUT keeping any data
+* **Do NOT do this section if you DO wish to keep your data! If you want to keep your data follow one of 2 sections above to your use case!**
+* Download and extract your firmware **you are currently on. Download recovery firmware**.
+   * <a href="https://archive.midnightchannel.net/SonyPS/Firmware/index.php?cat=PS4SYS">Midnight Channel Archives</a> - Recommended because of the faster download speeds.
+   * <a href="https://darksoftware.xyz/PS4/FWlist">DKS - PS4 Official Firmwares (darksoftware.xyz)</a> Recommended because of the faster download speeds but requires creation of an account on the site.
+   * <a href="https://darthsternie.net/ps4-firmwares/">PS4 Firmwares - Darthsternie's Firmware Archive</a> No account required, but slower download speeds.
+* **Do not try to download a firmware lower than your current as it will NOT install. Also, do not try to download a higher firmware as it will update your PS4 and you WON'T be able to downgrade**
+* Format the USB drive as FAT32 or exFAT and create the following structure: PS4 > UPDATE > PS4UPDATE.pup *(rename the pup to PS4UPDATE.pup if you didn't already)*
+* Take your original HDD out of PS4. Insert the new HDD inside. Plug-in the USB Drive to the PS4.
+* Hold PS4's power button (button on the console, not the controller) until you boot into Safe Mode.
+* Initialize PS4 using the USB Drive. **Make sure the firmware is the same as your original HDD. Do NOT initialize if firmware is higher or lower!**
+* Wait until it's done and finish setting up your PS4.
+* **REMOVE ANY ETHERNET CABLE AND/OR SKIP WI-FI SETUP. Keep everything offline during and after setting up your PS4.**
+* **After setup, navigate to Settings > System > Automatic Downloads > Uncheck Featured Content, System Software Update Files, Allow Restart and Application Update Files.**
+* Jailbreak your PS4 using GoldHEN.
 * Done.
