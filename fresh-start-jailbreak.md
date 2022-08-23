@@ -80,7 +80,7 @@ MTU Settings: Automatic
 Proxy Server: Do Not Use</strong>
 </pre>
 
- * **Note!: For some people, their Internet Provider will block DNS's, thus not allowing you to use the 2 DNS Addresses. If you are one of those people please use
+ * **Note!: For some people, you might get WV-XXX error when visiting the exploit host via DNS. That's because their Internet Provider will block DNS's, thus not allowing you to use the 2 DNS Addresses. If you are one of those people please use
 [ALTERNATIVE GUIDE](alternative-jailbreak.md)**
 
 <ul>
