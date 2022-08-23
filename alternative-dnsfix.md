@@ -17,7 +17,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ## For who is this method?
 
- * This method allows direct access to the previous DNS method via the Internet Browser and self-hosting.
+ * This method allows direct access to the previous DNS method via the Internet Browser.
 
 ### DNS Hijacking Fix Guide
 
