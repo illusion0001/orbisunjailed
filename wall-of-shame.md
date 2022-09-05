@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  
 ## The shameless list, in no particular order:
 
-* **upalm** - stealing code and claiming he made them / hosting piracy / fake jailbreak / wanting pay to access jailbreak site / stealing trainer site
+* **upalm** - stealing code and claiming he made them / hosting piracy / fake jailbreak / wanting pay to access jailbreak site / stealing trainer site / making a dubious community based site / risk of scamming (rooted.gq)
 * **Nightking (SALT / salt13939424 / nightking_host)** - demanding pay for free homebrew / selling pirated games / selling fpkg PS2 games / adding leaked/untested versions of GoldHEN that were not authorized by the creators / risk of software bricking
 * **Whispersintheb1 / Umar** - fake online jailbreak claim
 * **Andrew2007** - fake online access claim while jailbroken / clickbait / selling modded accounts of various games
