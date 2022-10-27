@@ -64,6 +64,7 @@ While the advantages are plenty, you will lose some functionality such as:
  * Game backups can be made by either <a href="https://florinsdistortedvision.github.io/orbisunjailed/dumping/"> dumping </a> or by knowing a unique, very hard to guess, decryption key. Most backups are made by dumping.
  * Sony implemented a minimum firmware for both games and updates to games, forcing the user to update to launch the content. To dump a game, the user must have the game running, thus why a dump is not possible.
  * As for the decryption keys, you will rarely see game backups being made from this method. This method might be better for updates, on which, a fpkg version of the update can be made with the decryption key, as some games will have the same key for both main game and updates.
+ * Some games may also use the default passcode used by the game engine (ex: Unity, Unreal), cuz of devs lazy to change it. While not the norm, it can happen. <a href="https://pastebin.com/B103aSYM"> Here is a list of such games </a>.
 
 
 ## Useful terms to know
