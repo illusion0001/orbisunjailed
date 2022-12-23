@@ -24,6 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 * [★ FPS Patches & Mods](fps-patches-mods.md)
 * [★ Game/app dumping](dumping.md)
 * [★ Fan Translations & Undubs](translations-undubs.md)
+* [★ entitlement.db - Reinstall your removed PSN games](entitlement.md)
 
 ## ✪ Homebrew Apps
 
